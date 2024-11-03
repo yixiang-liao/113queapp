@@ -1,2307 +1,2307 @@
 {
-    "chapters": [
+  "chapters": [
+    {
+      "chap": "ch01",
+      "questions": [
         {
-            "chap": "ch01",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. 在資訊系統中，誰被稱為利益關係人?",
-                    "Detail": {
-                        "Options_A": "只有系統開發者",
-                        "Options_B": "只有公司股東",
-                        "Options_C": "所有受系統影響或影響系統的人",
-                        "Options_D": "只有系統用戶",
-                        "Ans": "所有受系統影響或影響系統的人",
-                        "Detailed_Answer": "利益關係人包括所有受系統影響或影響系統的人。"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. 電子商務中的B2C是指什麼?",
-                    "Detail": {
-                        "Options_A": "企業對企業",
-                        "Options_B": "企業對消費者",
-                        "Options_C": "消費者對消費者",
-                        "Options_D": "消費者對企業",
-                        "Ans": "企業對消費者",
-                        "Detailed_Answer": "B2C代表Business-to-Consumer，即企業對消費者的電子商務模式。"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. 以下哪項不是B2C環境中消費者可以進行的操作?",
-                    "Detail": {
-                        "Options_A": "直接修改公司數據庫",
-                        "Options_B": "對產品進行研究",
-                        "Options_C": "比較價格",
-                        "Options_D": "選擇付款方式",
-                        "Ans": "直接修改公司數據庫",
-                        "Detailed_Answer": "在B2C環境中，消費者不能直接修改公司數據庫。其他選項都是消費者可以進行的操作。"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. B2B電子商務最初使用的是什麼技術?",
-                    "Detail": {
-                        "Options_A": "HTML",
-                        "Options_B": "HTTP",
-                        "Options_C": "EDI",
-                        "Options_D": "FTP",
-                        "Ans": "EDI",
-                        "Detailed_Answer": "B2B電子商務最初是使用電子資料交換(EDI)進行的。"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. 供應鏈管理(SCM)軟體主要被哪些組織使用?",
-                    "Detail": {
-                        "Options_A": "只有小型企業",
-                        "Options_B": "大型公司及政府機構",
-                        "Options_C": "只有非營利組織",
-                        "Options_D": "只有教育機構",
-                        "Ans": "大型公司及政府機構",
-                        "Detailed_Answer": "大多數的大型公司及政府機構都使用供應鏈管理(SCM)軟體。"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 業務概況不包括以下哪項信息?",
-                    "Detail": {
-                        "Options_A": "公司使命",
-                        "Options_B": "公司功能",
-                        "Options_C": "公司流程",
-                        "Options_D": "員工個人喜好",
-                        "Ans": "員工個人喜好",
-                        "Detailed_Answer": "業務概況描述公司的使命、功能、流程等，但通常不包括員工個人喜好。"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 商業流程塑模(BPM)的主要目的是什麼?",
-                    "Detail": {
-                        "Options_A": "以圖形化方式顯示一個或多個商業流程",
-                        "Options_B": "計算公司利潤",
-                        "Options_C": "管理員工考勤",
-                        "Options_D": "制定市場策略",
-                        "Ans": "以圖形化方式顯示一個或多個商業流程",
-                        "Detailed_Answer": "商業流程塑模(BPM)是以圖形化方式顯示一個或多個商業流程。"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. BPMN代表什麼?",
-                    "Detail": {
-                        "Options_A": "Business Process Management Network",
-                        "Options_B": "Business Profile Modeling Notation",
-                        "Options_C": "Business Process Modeling Notation",
-                        "Options_D": "Business Profile Management Network",
-                        "Ans": "Business Process Modeling Notation",
-                        "Detailed_Answer": "BPMN代表Business Process Modeling Notation，即商業流程塑模記法。"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. 以下哪項不是影響現代商業的主要趨勢?",
-                    "Detail": {
-                        "Options_A": "全球化的快速增加",
-                        "Options_B": "紙質文件使用的增加",
-                        "Options_C": "技術整合",
-                        "Options_D": "雲端運算的快速成長",
-                        "Ans": "紙質文件使用的增加",
-                        "Detailed_Answer": "紙質文件使用的增加不是現代商業的主要趨勢。相反，數字化和無紙化是當前的趨勢。"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 在電子商務系統中，用戶通常通過什麼與移動設備上的系統進行交互?",
-                    "Detail": {
-                        "Options_A": "App",
-                        "Options_B": "郵件",
-                        "Options_C": "傳真",
-                        "Options_D": "電話",
-                        "Ans": "App",
-                        "Detailed_Answer": "在移動設備上，用戶通常是通過所謂的app與系統進行交互。"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 資訊科技(IT)是指什麼的結合?",
-                    "Detail": {
-                        "Options_A": "硬體與軟體",
-                        "Options_B": "軟體與網路",
-                        "Options_C": "網路與人員",
-                        "Options_D": "軟體與硬體產品及服務",
-                        "Ans": "軟體與硬體產品及服務",
-                        "Detailed_Answer": "資訊科技(IT)是指軟體與硬體產品及服務的結合。"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 系統分析與設計是一個什麼樣的過程?",
-                    "Detail": {
-                        "Options_A": "快速開發",
-                        "Options_B": "隨機測試",
-                        "Options_C": "發展高品質資訊系統的逐步過程",
-                        "Options_D": "單次完成的項目",
-                        "Ans": "發展高品質資訊系統的逐步過程",
-                        "Detailed_Answer": "系統分析與設計是一個發展高品質資訊系統的逐步過程。"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 資訊系統結合了哪些要素來支援企業需求?",
-                    "Detail": {
-                        "Options_A": "只有軟體",
-                        "Options_B": "資訊科技、人員及資料",
-                        "Options_C": "只有硬體",
-                        "Options_D": "只有資料",
-                        "Ans": "資訊科技、人員及資料",
-                        "Detailed_Answer": "資訊系統結合了資訊科技、人員及資料來支援企業需求。"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 系統設計師的職責不包括哪一項?",
-                    "Detail": {
-                        "Options_A": "銷售產品",
-                        "Options_B": "協助規劃資訊系統",
-                        "Options_C": "開發資訊系統",
-                        "Options_D": "維護資訊系統",
-                        "Ans": "銷售產品",
-                        "Detailed_Answer": "系統設計師的職責主要包括協助規劃、開發及維護資訊系統，而不包括銷售產品。"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. 關鍵任務系統是指什麼?",
-                    "Detail": {
-                        "Options_A": "對公司無關緊要的系統",
-                        "Options_B": "對公司營運有非常重大影響的系統",
-                        "Options_C": "只用於娛樂的系統",
-                        "Options_D": "僅用於通訊的系統",
-                        "Ans": "對公司營運有非常重大影響的系統",
-                        "Detailed_Answer": "關鍵任務系統是指對公司營運有非常重大影響的系統。"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 在資訊系統中，資料和資訊有何區別?",
-                    "Detail": {
-                        "Options_A": "資料是基本事實，資訊是對使用者有價值的輸出",
-                        "Options_B": "資料和資訊是同義詞",
-                        "Options_C": "資訊是輸入，資料是輸出",
-                        "Options_D": "資料只存在於資料庫中，資訊只存在於報告中",
-                        "Ans": "資料是基本事實，資訊是對使用者有價值的輸出",
-                        "Detailed_Answer": "資料包含基本的事實，是系統的原料；而資訊是對使用者具有價值的輸出資料。"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 根據摩爾定律，積體電路晶片上的晶體管數量大約多久會倍增?",
-                    "Detail": {
-                        "Options_A": "每6個月",
-                        "Options_B": "每12個月",
-                        "Options_C": "每24個月",
-                        "Options_D": "每36個月",
-                        "Ans": "每24個月",
-                        "Detailed_Answer": "摩爾定律指出，積體電路晶片上的晶體管數量每24個月將倍增。"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 系統軟體的主要功能是什麼?",
-                    "Detail": {
-                        "Options_A": "支援日常商業功能",
-                        "Options_B": "管理硬體",
-                        "Options_C": "處理客戶關係",
-                        "Options_D": "進行數據分析",
-                        "Ans": "管理硬體",
-                        "Detailed_Answer": "系統軟體主要用來管理硬體。"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. 以下哪一項不是應用軟體的類型?",
-                    "Detail": {
-                        "Options_A": "作業系統",
-                        "Options_B": "水平系統",
-                        "Options_C": "垂直系統",
-                        "Options_D": "老舊系統",
-                        "Ans": "作業系統",
-                        "Detailed_Answer": "作業系統是系統軟體，而不是應用軟體。水平系統、垂直系統和老舊系統都是應用軟體的類型。"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 在資訊系統中，流程是指什麼?",
-                    "Detail": {
-                        "Options_A": "只有資料的移動",
-                        "Options_B": "僅限於硬體操作",
-                        "Options_C": "只包括軟體運行",
-                        "Options_D": "為達成特定結果所經歷的任務以及所需執行的業務功能",
-                        "Ans": "為達成特定結果所經歷的任務以及所需執行的業務功能",
-                        "Detailed_Answer": "流程描述為達成特定結果所經歷的任務以及所需執行的業務功能。"
-                    }
-                }
-            ]
+          "Q_Num": 1,
+          "Que": "1. 在資訊系統中，誰被稱為利益關係人?",
+          "Detail": {
+            "Options_A": "只有系統開發者",
+            "Options_B": "只有公司股東",
+            "Options_C": "所有受系統影響或影響系統的人",
+            "Options_D": "只有系統用戶",
+            "Ans": "所有受系統影響或影響系統的人",
+            "Detailed_Answer": "利益關係人包括所有受系統影響或影響系統的人。"
+          }
         },
         {
-            "chap": "ch02",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. 時程可行性主要考慮什麼問題？",
-                    "Detail": {
-                        "Options_A": "系統的技術難度",
-                        "Options_B": "系統的經濟效益",
-                        "Options_C": "系統的用戶接受度",
-                        "Options_D": "系統能否在允許時間內完成",
-                        "Ans": "系統能否在允許時間內完成",
-                        "Detailed_Answer": "時程可行性主要考慮專案是否可以在允許時間內完成，包括時間與成本之間的關係。"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. 以下哪項不是SWOT分析的組成部分？",
-                    "Detail": {
-                        "Options_A": "優勢",
-                        "Options_B": "弱勢",
-                        "Options_C": "機會",
-                        "Options_D": "策略",
-                        "Ans": "策略",
-                        "Detailed_Answer": "SWOT分析包括優勢(Strengths)、弱勢(Weaknesses)、機會(Opportunities)和威脅(Threats)，不包括策略。"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. IT部門在策略規劃中的主要作用是什麼？",
-                    "Detail": {
-                        "Options_A": "制定公司願景",
-                        "Options_B": "決定財務預算",
-                        "Options_C": "確保專案支持整體商業策略",
-                        "Options_D": "決定人力資源分配",
-                        "Ans": "確保專案支持整體商業策略",
-                        "Detailed_Answer": "IT部門的主要作用是確保專案能夠支持整體的商業策略及作業需求。"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. 企業個案應該能夠回答的問題不包括：",
-                    "Detail": {
-                        "Options_A": "為什麼要進行這項專案",
-                        "Options_B": "需要花多少錢與多久時間",
-                        "Options_C": "公司的股票價值如何",
-                        "Options_D": "如何衡量其成功與否",
-                        "Ans": "公司的股票價值如何",
-                        "Detailed_Answer": "企業個案不需要回答公司的股票價值如何，這超出了單個專案的範疇。"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. 企業個案是指什麼？",
-                    "Detail": {
-                        "Options_A": "公司的歷史記錄",
-                        "Options_B": "提案的提出理由或正當性",
-                        "Options_C": "財務報表",
-                        "Options_D": "市場調查報告",
-                        "Ans": "提案的提出理由或正當性",
-                        "Detailed_Answer": "企業個案是指一個提案的提出理由或正當性，它應該清楚地描述專案並提供執行的正當性。"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 系統審查委員會的主要功能是什麼？",
-                    "Detail": {
-                        "Options_A": "開發新系統",
-                        "Options_B": "評估系統請求",
-                        "Options_C": "維護現有系統",
-                        "Options_D": "培訓IT人員",
-                        "Ans": "評估系統請求",
-                        "Detailed_Answer": "系統審查委員會的主要功能是評估系統請求，決定哪些專案應該進行。"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 以下哪項不屬於有形成本？",
-                    "Detail": {
-                        "Options_A": "硬體設備費用",
-                        "Options_B": "軟體購買費用",
-                        "Options_C": "員工士氣降低",
-                        "Options_D": "培訓費用",
-                        "Ans": "員工士氣降低",
-                        "Detailed_Answer": "員工士氣降低屬於無形成本，其他選項都是可以用金錢衡量的有形成本。"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. 影響資訊專案的內部因素不包括：",
-                    "Detail": {
-                        "Options_A": "高階主管",
-                        "Options_B": "使用者要求",
-                        "Options_C": "競爭者",
-                        "Options_D": "現行系統和資料",
-                        "Ans": "競爭者",
-                        "Detailed_Answer": "競爭者是外部因素，不是內部因素。內部因素包括高階主管、使用者要求、現行系統和資料等。"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. SWOT分析中的'S'代表什麼？",
-                    "Detail": {
-                        "Options_A": "弱點",
-                        "Options_B": "威脅",
-                        "Options_C": "機會",
-                        "Options_D": "優勢",
-                        "Ans": "優勢",
-                        "Detailed_Answer": "在SWOT分析中，'S'代表Strength（優勢），是指組織的內部優勢。"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 經濟可行性主要比較什麼？",
-                    "Detail": {
-                        "Options_A": "系統效益和總體擁有成本",
-                        "Options_B": "系統開發時間和使用壽命",
-                        "Options_C": "系統功能和用戶需求",
-                        "Options_D": "系統複雜度和維護難度",
-                        "Ans": "系統效益和總體擁有成本",
-                        "Detailed_Answer": "經濟可行性主要比較系統帶來的效益是否會超過總體擁有成本(TCO)。"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 策略規劃是一個制訂什麼的流程？",
-                    "Detail": {
-                        "Options_A": "短期目標",
-                        "Options_B": "長期目標",
-                        "Options_C": "中期目標",
-                        "Options_D": "季度目標",
-                        "Ans": "長期目標",
-                        "Detailed_Answer": "策略規劃是制訂長期性的組織目標、策略及資源的流程。"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 以下哪項不是策略規劃工具？",
-                    "Detail": {
-                        "Options_A": "Microsoft Word",
-                        "Options_B": "Microsoft Excel",
-                        "Options_C": "CASE工具",
-                        "Options_D": "公司年報",
-                        "Ans": "公司年報",
-                        "Detailed_Answer": "公司年報不是策略規劃工具，而Microsoft Word、Excel和CASE工具都可用於策略規劃。"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 系統請求通常由誰提出？",
-                    "Detail": {
-                        "Options_A": "只能由IT部門提出",
-                        "Options_B": "只能由高層管理者提出",
-                        "Options_C": "只能由外部顧問提出",
-                        "Options_D": "可以由組織內任何部門或個人提出",
-                        "Ans": "可以由組織內任何部門或個人提出",
-                        "Detailed_Answer": "系統請求可以由組織內任何部門或個人提出，不限於特定群體。"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 技術可行性主要評估什麼？",
-                    "Detail": {
-                        "Options_A": "系統的經濟效益",
-                        "Options_B": "系統所需的技術資源",
-                        "Options_C": "系統的操作難度",
-                        "Options_D": "系統的開發時間",
-                        "Ans": "系統所需的技術資源",
-                        "Detailed_Answer": "技術可行性主要評估系統所需的技術資源，包括必要的硬體、軟體及網路資源。"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. CASE工具是什麼的縮寫？",
-                    "Detail": {
-                        "Options_A": "Computer Assisted Software Engineering",
-                        "Options_B": "Computer Analysis System Engineering",
-                        "Options_C": "Complex Application Software Environment",
-                        "Options_D": "Centralized Application System Evaluation",
-                        "Ans": "Computer Assisted Software Engineering",
-                        "Detailed_Answer": "CASE是Computer Assisted Software Engineering（電腦輔助軟體工程）的縮寫。"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 初步調查報告中不包括以下哪個部分？",
-                    "Detail": {
-                        "Options_A": "系統請求摘要",
-                        "Options_B": "調查發現",
-                        "Options_C": "系統詳細設計",
-                        "Options_D": "行動方案",
-                        "Ans": "系統詳細設計",
-                        "Detailed_Answer": "初步調查報告中不包括系統詳細設計，這屬於後續階段的工作。"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 初步調查的第一步是什麼？",
-                    "Detail": {
-                        "Options_A": "定義專案範疇",
-                        "Options_B": "執行實情調查",
-                        "Options_C": "了解問題或機會",
-                        "Options_D": "評估可行性",
-                        "Ans": "了解問題或機會",
-                        "Detailed_Answer": "初步調查的第一步是了解問題或機會，這是整個調查的起點。"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 以下哪項不是影響資訊專案的外部因素？",
-                    "Detail": {
-                        "Options_A": "科技",
-                        "Options_B": "供應商",
-                        "Options_C": "顧客",
-                        "Options_D": "公司財務",
-                        "Ans": "公司財務",
-                        "Detailed_Answer": "公司財務是內部因素，不是外部因素。外部因素包括科技、供應商、顧客等。"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. XY圖（散布圖）主要用於觀察什麼？",
-                    "Detail": {
-                        "Options_A": "兩個變數之間的關係",
-                        "Options_B": "系統性能變化",
-                        "Options_C": "用戶滿意度",
-                        "Options_D": "成本效益",
-                        "Ans": "兩個變數之間的關係",
-                        "Detailed_Answer": "XY圖主要用於觀察兩個變數之間的相互關係或模式。"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 操作可行性主要關注什麼問題？",
-                    "Detail": {
-                        "Options_A": "系統的技術實現",
-                        "Options_B": "系統的成本效益",
-                        "Options_C": "系統的開發時間",
-                        "Options_D": "系統的用戶接受度",
-                        "Ans": "系統的用戶接受度",
-                        "Detailed_Answer": "操作可行性主要關注系統的用戶接受度，包括管理層和用戶是否支持該專案等問題。"
-                    }
-                },
-                {
-                    "Q_Num": 21,
-                    "Que": "21. 心智圖在策略規劃中的主要作用是什麼？",
-                    "Detail": {
-                        "Options_A": "可視化思考和組織想法",
-                        "Options_B": "進行財務分析",
-                        "Options_C": "評估技術可行性",
-                        "Options_D": "制定營銷策略",
-                        "Ans": "可視化思考和組織想法",
-                        "Detailed_Answer": "心智圖主要用於可視化思考和組織想法，有助於策略規劃過程中的創意思考。"
-                    }
-                },
-                {
-                    "Q_Num": 22,
-                    "Que": "22. 策略規劃的起點是什麼？",
-                    "Detail": {
-                        "Options_A": "SWOT分析",
-                        "Options_B": "關鍵成功因素",
-                        "Options_C": "財務預算",
-                        "Options_D": "使命宣言",
-                        "Ans": "使命宣言",
-                        "Detailed_Answer": "策略規劃以使命宣言為起點，反映公司願景、目的及價值。"
-                    }
-                },
-                {
-                    "Q_Num": 23,
-                    "Que": "23.",
-                    "Detail": {
-                        "Options_A": "提升效能",
-                        "Options_B": "降低成本",
-                        "Options_C": "增加員工數量",
-                        "Options_D": "提供更多資訊",
-                        "Ans": "增加員工數量",
-                        "Detailed_Answer": "增加員工數量不是系統請求的主要原因。主要原因包括提升效能、降低成本、提供更多資訊等。"
-                    }
-                },
-                {
-                    "Q_Num": 24,
-                    "Que": "24. 帕列圖主要用於什麼目的？",
-                    "Detail": {
-                        "Options_A": "展示系統架構",
-                        "Options_B": "排序問題的成因",
-                        "Options_C": "評估經濟可行性",
-                        "Options_D": "分析用戶需求",
-                        "Ans": "排序問題的成因",
-                        "Detailed_Answer": "帕列圖主要用於展示並排序問題的成因，讓分析師能夠聚焦於最重要的問題。"
-                    }
-                },
-                {
-                    "Q_Num": 25,
-                    "Que": "25. 以下哪項不是影響系統請求優先順序的因素？",
-                    "Detail": {
-                        "Options_A": "降低成本",
-                        "Options_B": "增加收益",
-                        "Options_C": "提供更多資訊",
-                        "Options_D": "系統開發人員的偏好",
-                        "Ans": "系統開發人員的偏好",
-                        "Detailed_Answer": "系統開發人員的偏好不應該影響系統請求的優先順序，其他選項都是合理的考慮因素。"
-                    }
-                },
-                {
-                    "Q_Num": 26,
-                    "Que": "26. 以下哪項不是初步調查中實情調查的方法？",
-                    "Detail": {
-                        "Options_A": "分析組織圖",
-                        "Options_B": "進行訪談",
-                        "Options_C": "觀察作業",
-                        "Options_D": "制定解決方案",
-                        "Ans": "制定解決方案",
-                        "Detailed_Answer": "制定解決方案不屬於實情調查的方法，其他選項都是收集資訊的有效方法。"
-                    }
-                },
-                {
-                    "Q_Num": 27,
-                    "Que": "27. 評估系統請求的可行性時，不需要考慮以下哪個方面？",
-                    "Detail": {
-                        "Options_A": "操作可行性",
-                        "Options_B": "技術可行性",
-                        "Options_C": "美學可行性",
-                        "Options_D": "經濟可行性",
-                        "Ans": "美學可行性",
-                        "Detailed_Answer": "評估系統請求的可行性時，主要考慮操作、技術、經濟和時程可行性，不包括美學可行性。"
-                    }
-                },
-                {
-                    "Q_Num": 28,
-                    "Que": "28. 系統請求表格的主要目的是什麼？",
-                    "Detail": {
-                        "Options_A": "使申請程序運作流暢",
-                        "Options_B": "增加申請難度",
-                        "Options_C": "減少系統請求數量",
-                        "Options_D": "延長審核時間",
-                        "Ans": "使申請程序運作流暢",
-                        "Detailed_Answer": "系統請求表格的主要目的是使申請程序運作流暢，確保一致性和易於理解。"
-                    }
-                },
-                {
-                    "Q_Num": 29,
-                    "Que": "29. 什麼類型的專案稱為自由裁量專案？",
-                    "Detail": {
-                        "Options_A": "管理者可以選擇是否進行的專案",
-                        "Options_B": "必須立即執行的專案",
-                        "Options_C": "法律要求的專案",
-                        "Options_D": "維護現有系統的專案",
-                        "Ans": "管理者可以選擇是否進行的專案",
-                        "Detailed_Answer": "自由裁量專案是指管理者可以選擇是否進行的專案，有一定的決策空間。"
-                    }
-                }
-            ]
+          "Q_Num": 2,
+          "Que": "2. 電子商務中的B2C是指什麼?",
+          "Detail": {
+            "Options_A": "企業對企業",
+            "Options_B": "企業對消費者",
+            "Options_C": "消費者對消費者",
+            "Options_D": "消費者對企業",
+            "Ans": "企業對消費者",
+            "Detailed_Answer": "B2C代表Business-to-Consumer，即企業對消費者的電子商務模式。"
+          }
         },
         {
-            "chap": "ch03",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. 結構化逐步審查的主要目的是什麼？",
-                    "Detail": {
-                        "Options_A": "增加專案成本",
-                        "Options_B": "延長專案時間",
-                        "Options_C": "讓團隊成員互相審查工作",
-                        "Options_D": "減少專案範疇",
-                        "Ans": "讓團隊成員互相審查工作",
-                        "Detailed_Answer": "結構化逐步審查是一種將專案團隊成員的工作交由團隊中其他成員進行審查的方式，目的是提高質量和發現問題。"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. PERT和CPM的主要區別是什麼？",
-                    "Detail": {
-                        "Options_A": "發明者不同",
-                        "Options_B": "用途不同",
-                        "Options_C": "圖形表示方式不同",
-                        "Options_D": "這兩種方法的差異已經隨時間消失",
-                        "Ans": "這兩種方法的差異已經隨時間消失",
-                        "Detailed_Answer": "PERT和CPM最初由不同機構發明，但隨著時間推移，兩者的差異已經消失。"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. 甘特圖是什麼類型的圖表？",
-                    "Detail": {
-                        "Options_A": "圓餅圖",
-                        "Options_B": "柱狀圖",
-                        "Options_C": "折線圖",
-                        "Options_D": "水平直條圖",
-                        "Ans": "水平直條圖",
-                        "Detailed_Answer": "甘特圖是一種水平的直條圖，用來表示一連串的任務及其時間安排。"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. 大多數專案管理軟體不提供哪種功能？",
-                    "Detail": {
-                        "Options_A": "PERT/CPM圖",
-                        "Options_B": "甘特圖",
-                        "Options_C": "資源時程規劃",
-                        "Options_D": "自動編寫程式碼",
-                        "Ans": "自動編寫程式碼",
-                        "Detailed_Answer": "大多數專案管理軟體提供PERT/CPM圖、甘特圖和資源時程規劃等功能，但不會自動編寫程式碼。"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. 下列哪項不是造成專案成本超支的常見原因？",
-                    "Detail": {
-                        "Options_A": "不實際的估計",
-                        "Options_B": "未能精確估算所有成本",
-                        "Options_C": "未能監控進度",
-                        "Options_D": "專案提前完成",
-                        "Ans": "專案提前完成",
-                        "Detailed_Answer": "專案提前完成通常不會導致成本超支，其他選項都是可能導致成本超支的原因。"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 專案三角包含哪些因素？",
-                    "Detail": {
-                        "Options_A": "成本、範疇、品質",
-                        "Options_B": "成本、範疇、時程",
-                        "Options_C": "成本、品質、時程",
-                        "Options_D": "範疇、品質、時程",
-                        "Ans": "成本、範疇、時程",
-                        "Detailed_Answer": "專案三角包括成本、範疇和時程三個互動因素。任何一項因素的改變都會影響到其他兩項。"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 關鍵路徑是指什麼？",
-                    "Detail": {
-                        "Options_A": "最短的任務路徑",
-                        "Options_B": "最長的任務路徑",
-                        "Options_C": "影響專案完成日期的任務序列",
-                        "Options_D": "最容易完成的任務序列",
-                        "Ans": "影響專案完成日期的任務序列",
-                        "Detailed_Answer": "關鍵路徑是指一連串的任務，如果這些任務延誤了，將會影響整個專案的最終完成日期。"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. 風險管理的第一步是什麼？",
-                    "Detail": {
-                        "Options_A": "分析風險",
-                        "Options_B": "監控風險",
-                        "Options_C": "發展風險管理計畫",
-                        "Options_D": "確認風險",
-                        "Ans": "發展風險管理計畫",
-                        "Detailed_Answer": "風險管理的第一步是發展一份風險管理計畫，這為後續的風險管理活動提供指導。"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. 什麼是依存任務？",
-                    "Detail": {
-                        "Options_A": "可以同時進行的任務",
-                        "Options_B": "必須按順序完成的任務",
-                        "Options_C": "可以隨時開始的任務",
-                        "Options_D": "不需要完成的任務",
-                        "Ans": "必須按順序完成的任務",
-                        "Detailed_Answer": "依存任務是指必須一個接一個完成的任務，後一個任務需要等前一個任務完成才能開始。"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 多重後續任務中的\"後續任務\"是指什麼？",
-                    "Detail": {
-                        "Options_A": "前置任務完成後可以開始的任務",
-                        "Options_B": "必須在其他任務之前完成的任務",
-                        "Options_C": "可以同時進行的任務",
-                        "Options_D": "不依賴其他任務的任務",
-                        "Ans": "前置任務完成後可以開始的任務",
-                        "Detailed_Answer": "在多重後續任務模式中，後續任務是指在前置任務完成後可以開始的任務。"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 質性風險分析和量化風險分析的主要區別是什麼？",
-                    "Detail": {
-                        "Options_A": "時間長短",
-                        "Options_B": "成本高低",
-                        "Options_C": "數據類型",
-                        "Options_D": "執行人員",
-                        "Ans": "數據類型",
-                        "Detailed_Answer": "質性風險分析和量化風險分析的主要區別在於使用的數據類型:質性分析使用描述性數據，而量化分析使用數值數據。"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 在專案管理中，什麼是里程碑？",
-                    "Detail": {
-                        "Options_A": "最長的任務",
-                        "Options_B": "最短的任務",
-                        "Options_C": "標誌重要階段完成的時間點",
-                        "Options_D": "最昂貴的任務",
-                        "Ans": "標誌重要階段完成的時間點",
-                        "Detailed_Answer": "里程碑是標誌專案重要階段完成的時間點，用於監控專案進度和成果。"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 專案三角中，如果增加專案範疇，通常會對其他因素產生什麼影響？",
-                    "Detail": {
-                        "Options_A": "減少成本和時間",
-                        "Options_B": "增加成本或時間",
-                        "Options_C": "不影響其他因素",
-                        "Options_D": "只影響質量",
-                        "Ans": "增加成本或時間",
-                        "Detailed_Answer": "增加專案範疇通常會導致成本增加或時間延長，因為這三個因素是互相影響的。"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 專案經理通常如何估計任務所需時間？",
-                    "Detail": {
-                        "Options_A": "直接猜測",
-                        "Options_B": "使用加權公式",
-                        "Options_C": "詢問團隊成員",
-                        "Options_D": "參考類似專案",
-                        "Ans": "使用加權公式",
-                        "Detailed_Answer": "專案經理通常會透過加權公式來估計每項任務的所需時間，包括最佳、可能和最差情況估計。"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. 下列哪項不是影響任務所需時間的因素？",
-                    "Detail": {
-                        "Options_A": "專案大小",
-                        "Options_B": "人力資源",
-                        "Options_C": "相似專案的經驗",
-                        "Options_D": "專案經理的心情",
-                        "Ans": "專案經理的心情",
-                        "Detailed_Answer": "專案大小、人力資源和相似專案的經驗都會影響任務所需時間，而專案經理的心情不應該是考慮因素。"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 專案時程問題通常不包括以下哪項？",
-                    "Detail": {
-                        "Options_A": "未發覺任務依存性",
-                        "Options_B": "不良的監督與控制方法",
-                        "Options_C": "團隊成員之間的衝突",
-                        "Options_D": "預算充足",
-                        "Ans": "預算充足",
-                        "Detailed_Answer": "預算充足通常不會直接導致時程問題，其他選項都可能造成專案時程延誤。"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 專案蔓延(project creep)指的是什麼現象？",
-                    "Detail": {
-                        "Options_A": "專案提前完成",
-                        "Options_B": "專案範圍不斷擴大",
-                        "Options_C": "專案成本降低",
-                        "Options_D": "專案團隊人數增加",
-                        "Ans": "專案範圍不斷擴大",
-                        "Detailed_Answer": "專案蔓延指的是專案範圍不斷擴大的現象，這可能導致時間延長和成本增加。"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 什麼是工作分解結構(WBS)？",
-                    "Detail": {
-                        "Options_A": "一種甘特圖",
-                        "Options_B": "一種PERT圖",
-                        "Options_C": "將專案拆解成一系列較小任務",
-                        "Options_D": "一種風險管理工具",
-                        "Ans": "將專案拆解成一系列較小任務",
-                        "Detailed_Answer": "工作分解結構(WBS)是將一個專案拆解成一系列較小的任務，便於管理和執行。"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. 下列哪項不是專案經理的主要任務？",
-                    "Detail": {
-                        "Options_A": "專案規劃",
-                        "Options_B": "專案排程",
-                        "Options_C": "專案監督",
-                        "Options_D": "專案執行",
-                        "Ans": "專案執行",
-                        "Detailed_Answer": "專案經理的主要任務包括專案規劃、排程、監督和回報，而非直接執行專案。"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 專案經理通常如何處理專案中出現的問題？",
-                    "Detail": {
-                        "Options_A": "忽視問題",
-                        "Options_B": "立即終止專案",
-                        "Options_C": "評估影響並尋找解決方案",
-                        "Options_D": "總是延長專案期限",
-                        "Ans": "評估影響並尋找解決方案",
-                        "Detailed_Answer": "專案經理通常會評估問題的影響，並尋找適當的解決方案，以盡量減少對專案的負面影響。"
-                    }
-                },
-                {
-                    "Q_Num": 21,
-                    "Que": "21. 在專案管理中，並行任務是指什麼？",
-                    "Detail": {
-                        "Options_A": "必須按順序完成的任務",
-                        "Options_B": "可以同時進行的任務",
-                        "Options_C": "不需要完成的任務",
-                        "Options_D": "最重要的任務",
-                        "Ans": "可以同時進行的任務",
-                        "Detailed_Answer": "並行任務是指可以同時進行的任務，這種任務安排可以幫助縮短專案總時間。"
-                    }
-                },
-                {
-                    "Q_Num": 22,
-                    "Que": "22. 專案經理為什麼要特別關注關鍵路徑上的任務？",
-                    "Detail": {
-                        "Options_A": "這些任務最容易",
-                        "Options_B": "這些任務最便宜",
-                        "Options_C": "這些任務決定了專案完成時間",
-                        "Options_D": "這些任務最不重要",
-                        "Ans": "這些任務決定了專案完成時間",
-                        "Detailed_Answer": "關鍵路徑上的任務決定了整個專案的完成時間，因此專案經理需要特別關注這些任務的進度。"
-                    }
-                },
-                {
-                    "Q_Num": 23,
-                    "Que": "23. 什麼是專案回報？",
-                    "Detail": {
-                        "Options_A": "向團隊成員發放獎金",
-                        "Options_B": "定期匯報專案進度和狀態",
-                        "Options_C": "終止失敗的專案",
-                        "Options_D": "增加專案預算",
-                        "Ans": "定期匯報專案進度和狀態",
-                        "Detailed_Answer": "專案回報是指定期向相關利益相關者匯報專案的進度、狀態、問題和成果。"
-                    }
-                },
-                {
-                    "Q_Num": 24,
-                    "Que": "24. 專案管理軟體中的行事曆檢視主要用途是什麼？",
-                    "Detail": {
-                        "Options_A": "顯示任務依存關係",
-                        "Options_B": "計算關鍵路徑",
-                        "Options_C": "顯示每日或每週的工作安排",
-                        "Options_D": "估算專案成本",
-                        "Ans": "顯示每日或每週的工作安排",
-                        "Detailed_Answer": "行事曆檢視主要用於顯示每日或每週的工作安排，幫助團隊成員了解自己的工作時間表。"
-                    }
-                },
-                {
-                    "Q_Num": 25,
-                    "Que": "25. 工作分解結構(WBS)的主要優點是什麼？",
-                    "Detail": {
-                        "Options_A": "增加專案複雜度",
-                        "Options_B": "減少溝通需求",
-                        "Options_C": "便於管理和執行",
-                        "Options_D": "自動完成任務",
-                        "Ans": "便於管理和執行",
-                        "Detailed_Answer": "工作分解結構的主要優點是將大型專案拆解成較小、可管理的任務，便於規劃、執行和控制。"
-                    }
-                },
-                {
-                    "Q_Num": 26,
-                    "Que": "26. 專案狀態會議的主要功能是什麼？",
-                    "Detail": {
-                        "Options_A": "延長專案時間",
-                        "Options_B": "增加專案成本",
-                        "Options_C": "分享信息和討論問題",
-                        "Options_D": "減少團隊成員工作量",
-                        "Ans": "分享信息和討論問題",
-                        "Detailed_Answer": "專案狀態會議的主要功能是讓團隊成員分享信息，討論共同的問題，並解釋新的技術。"
-                    }
-                },
-                {
-                    "Q_Num": 27,
-                    "Que": "27. 在專案管理中，事件或里程碑是指什麼？",
-                    "Detail": {
-                        "Options_A": "任何一項工作",
-                        "Options_B": "一個可識別的參考點",
-                        "Options_C": "專案的最後期限",
-                        "Options_D": "專案的開始時間",
-                        "Ans": "一個可識別的參考點",
-                        "Detailed_Answer": "事件或里程碑是一個用於監督進度與管理專案的可識別參考點。"
-                    }
-                },
-                {
-                    "Q_Num": 28,
-                    "Que": "28. 專案管理中的\"專案蔓延\"通常會導致什麼結果？",
-                    "Detail": {
-                        "Options_A": "提前完成專案",
-                        "Options_B": "降低專案成本",
-                        "Options_C": "提高專案質量",
-                        "Options_D": "延長時間和增加成本",
-                        "Ans": "延長時間和增加成本",
-                        "Detailed_Answer": "專案蔓延通常會導致專案時間延長和成本增加，因為專案範圍不斷擴大超出原定計劃。"
-                    }
-                },
-                {
-                    "Q_Num": 29,
-                    "Que": "29. 風險矩陣通常用來表示什麼？",
-                    "Detail": {
-                        "Options_A": "任務依存關係",
-                        "Options_B": "資源分配",
-                        "Options_C": "風險發生的機率和影響程度",
-                        "Options_D": "專案進度",
-                        "Ans": "風險發生的機率和影響程度",
-                        "Detailed_Answer": "風險矩陣通常用來表示風險發生的機率和其可能造成的影響程度，幫助專案經理進行風險評估和管理。"
-                    }
-                },
-                {
-                    "Q_Num": 30,
-                    "Que": "30. 在PERT/CPM圖中，任務盒通常不包含哪種信息？",
-                    "Detail": {
-                        "Options_A": "任務名稱",
-                        "Options_B": "任務編號",
-                        "Options_C": "任務需時",
-                        "Options_D": "任務負責人",
-                        "Ans": "任務負責人",
-                        "Detailed_Answer": "在PERT/CPM圖的任務盒中，通常包含任務名稱、編號和需時，但不會顯示任務負責人。"
-                    }
-                }
-            ]
+          "Q_Num": 3,
+          "Que": "3. 以下哪項不是B2C環境中消費者可以進行的操作?",
+          "Detail": {
+            "Options_A": "直接修改公司數據庫",
+            "Options_B": "對產品進行研究",
+            "Options_C": "比較價格",
+            "Options_D": "選擇付款方式",
+            "Ans": "直接修改公司數據庫",
+            "Detailed_Answer": "在B2C環境中，消費者不能直接修改公司數據庫。其他選項都是消費者可以進行的操作。"
+          }
         },
         {
-            "chap": "ch04",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. RAD 的主要目標是什麼？",
-                    "Detail": {
-                        "Options_A": "減少開發時間與成本",
-                        "Options_B": "提高系統複雜性",
-                        "Options_C": "增加需求精確性",
-                        "Options_D": "強調文書紀錄",
-                        "Ans": "減少開發時間與成本",
-                        "Detailed_Answer": "RAD 目標在於縮短開發時間和減少支出"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. 快捷法的特點是什麼？",
-                    "Detail": {
-                        "Options_A": "確保系統開發過程中沒有錯誤",
-                        "Options_B": "強調連續的使用者反饋和雛型修正",
-                        "Options_C": "完全避免文書紀錄",
-                        "Options_D": "強調系統的安全性",
-                        "Ans": "強調連續的使用者反饋和雛型修正",
-                        "Detailed_Answer": "快捷法強調使用者的持續反饋，並根據反饋修正雛型"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. 使用哪一種圖可以用來顯示系統如何儲存、運作、轉變資料？",
-                    "Detail": {
-                        "Options_A": "使用案例圖",
-                        "Options_B": "功能分解圖",
-                        "Options_C": "資料流向圖 (DFD)",
-                        "Options_D": "循序圖",
-                        "Ans": "資料流向圖 (DFD)",
-                        "Detailed_Answer": "資料流向圖用來描述系統中的資料如何被儲存、運作和轉變"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. 在 JAD 會議中，主要參與者包括哪些人？",
-                    "Detail": {
-                        "Options_A": "系統設計師與用戶",
-                        "Options_B": "專案組長和記錄組員",
-                        "Options_C": "資料分析師和測試工程師",
-                        "Options_D": "開發團隊和市場部門",
-                        "Ans": "專案組長和記錄組員",
-                        "Detailed_Answer": "JAD 會議的參與者包括具備良好人際技巧的專案組長和負責記錄的組員"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. RAD 的優點包括哪一項？",
-                    "Detail": {
-                        "Options_A": "減少成本和開發時間",
-                        "Options_B": "需求分析更為精確",
-                        "Options_C": "產生更多的文檔",
-                        "Options_D": "複雜的開發過程",
-                        "Ans": "減少成本和開發時間",
-                        "Detailed_Answer": "RAD 可以在減少成本和時間的情況下完成系統開發"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 需求工程包含哪三個主要活動？",
-                    "Detail": {
-                        "Options_A": "設計、開發、維護",
-                        "Options_B": "蒐集需求、表示需求、確認與驗證需求",
-                        "Options_C": "規劃、測試、部署",
-                        "Options_D": "分析、設計、實施",
-                        "Ans": "蒐集需求、表示需求、確認與驗證需求",
-                        "Detailed_Answer": "需求工程包含三項活動：蒐集需求、表示需求、確認與驗證需求"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 哪一項是需求蒐集中的第一步？",
-                    "Detail": {
-                        "Options_A": "表示需求",
-                        "Options_B": "確認需求",
-                        "Options_C": "驗證需求",
-                        "Options_D": "蒐集需求",
-                        "Ans": "蒐集需求",
-                        "Detailed_Answer": "蒐集需求是需求工程流程中的第一步"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. UML 的使用案例圖用來表示什麼？",
-                    "Detail": {
-                        "Options_A": "系統性能",
-                        "Options_B": "使用者與系統之間的互動",
-                        "Options_C": "資料流",
-                        "Options_D": "功能分解",
-                        "Ans": "使用者與系統之間的互動",
-                        "Detailed_Answer": "使用案例圖用來表示使用者與系統之間的互動"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. 在 RAD 開發中，最重要的特徵之一是什麼？",
-                    "Detail": {
-                        "Options_A": "系統完全獨立開發",
-                        "Options_B": "使用者在各階段的參與",
-                        "Options_C": "高度的文檔生成",
-                        "Options_D": "減少用戶的參與",
-                        "Ans": "使用者在各階段的參與",
-                        "Detailed_Answer": "RAD 強調使用者參與以縮短開發時間和支出"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 聯合應用開發 (JAD) 的主要優點是什麼？",
-                    "Detail": {
-                        "Options_A": "成本較低",
-                        "Options_B": "使用者能有效參與需求工程流程",
-                        "Options_C": "需求的精確性較低",
-                        "Options_D": "節省文件紀錄的時間",
-                        "Ans": "使用者能有效參與需求工程流程",
-                        "Detailed_Answer": "JAD 的優點是能有效讓相關人員參與需求工程流程，讓使用者更支持新系統"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 在需求確認與驗證中，確認的目的是什麼？",
-                    "Detail": {
-                        "Options_A": "檢查需求是否正確地陳述",
-                        "Options_B": "檢查需求是否符合使用者的真實需求",
-                        "Options_C": "測試系統性能",
-                        "Options_D": "設計系統架構",
-                        "Ans": "檢查需求是否符合使用者的真實需求",
-                        "Detailed_Answer": "確認的目的是確保陳述的需求能滿足使用者的需求"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 功能分解圖 (FDD) 的用途是什麼？",
-                    "Detail": {
-                        "Options_A": "顯示使用者與系統的互動",
-                        "Options_B": "描述系統中各層的功能與流程",
-                        "Options_C": "顯示系統的資料流向",
-                        "Options_D": "記錄系統需求的變更",
-                        "Ans": "描述系統中各層的功能與流程",
-                        "Detailed_Answer": "功能分解圖以由上而下的方式描述系統的各層功能和流程"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 在需求蒐集期間，霍桑效應指的是什麼？",
-                    "Detail": {
-                        "Options_A": "觀察者的出現影響被觀察者的行為",
-                        "Options_B": "訪談過程中使用者的意見不被考慮",
-                        "Options_C": "文件查閱時資料缺失",
-                        "Options_D": "開發團隊忽視需求變更",
-                        "Ans": "觀察者的出現影響被觀察者的行為",
-                        "Detailed_Answer": "霍桑效應指的是在觀察期間，由於觀察者的出現，被觀察者的行為可能會有所改變"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 哪一項是使用循序圖的目的？",
-                    "Detail": {
-                        "Options_A": "顯示資料流向",
-                        "Options_B": "表述物件之間的互動及其時間",
-                        "Options_C": "描述業務流程",
-                        "Options_D": "展示系統的功能層次",
-                        "Ans": "表述物件之間的互動及其時間",
-                        "Detailed_Answer": "循序圖用於表述系統中物件之間的互動及其時間順序"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. 哪一種圖表可以描述商業流程？",
-                    "Detail": {
-                        "Options_A": "功能分解圖",
-                        "Options_B": "商業流程模型 (BPM)",
-                        "Options_C": "資料流向圖",
-                        "Options_D": "使用案例圖",
-                        "Ans": "商業流程模型 (BPM)",
-                        "Detailed_Answer": "商業流程模型用來描述一個或多個商業流程"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 在訪談蒐集需求的過程中，哪一個步驟是第一步？",
-                    "Detail": {
-                        "Options_A": "建立訪談問題",
-                        "Options_B": "決定訪談對象",
-                        "Options_C": "記錄訪談",
-                        "Options_D": "準備訪談",
-                        "Ans": "決定訪談對象",
-                        "Detailed_Answer": "在訪談蒐集需求中，第一步是決定要訪談的對象"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 哪一個需求蒐集技術適合用來了解現有的業務流程？",
-                    "Detail": {
-                        "Options_A": "文件查閱",
-                        "Options_B": "問卷",
-                        "Options_C": "抽樣",
-                        "Options_D": "腦力激盪",
-                        "Ans": "文件查閱",
-                        "Detailed_Answer": "文件查閱可以提供對現有業務流程的詳細理解"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 系統需求可分為哪兩種類型？",
-                    "Detail": {
-                        "Options_A": "功能性和安全性",
-                        "Options_B": "性能性和非性能性",
-                        "Options_C": "功能性和非功能性",
-                        "Options_D": "實用性和擴展性",
-                        "Ans": "功能性和非功能性",
-                        "Detailed_Answer": "系統需求可以分為功能性和非功能性"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. 需求確認和需求驗證的區別是什麼？",
-                    "Detail": {
-                        "Options_A": "驗證是確認需求是否正確地陳述，確認是檢查是否滿足業務需求",
-                        "Options_B": "驗證是檢查需求文檔，確認是測試需求的實現",
-                        "Options_C": "驗證是測試代碼，確認是檢查文檔",
-                        "Options_D": "確認是設計，驗證是開發",
-                        "Ans": "驗證是確認需求是否正確地陳述，確認是檢查是否滿足業務需求",
-                        "Detailed_Answer": "驗證是檢查需求是否正確地陳述，而確認則是確定需求是否能滿足業務需求"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 哪種需求蒐集方法適合觀察系統的實際操作？",
-                    "Detail": {
-                        "Options_A": "訪談",
-                        "Options_B": "問卷",
-                        "Options_C": "觀察",
-                        "Options_D": "抽樣",
-                        "Ans": "觀察",
-                        "Detailed_Answer": "觀察適合用來理解系統的實際操作過程"
-                    }
-                },
-                {
-                    "Q_Num": 21,
-                    "Que": "21. 需求的驗證是為了確保什麼？",
-                    "Detail": {
-                        "Options_A": "系統已完成測試",
-                        "Options_B": "需求正確地陳述並符合規範",
-                        "Options_C": "使用者已經滿意系統",
-                        "Options_D": "系統已經完成設計",
-                        "Ans": "需求正確地陳述並符合規範",
-                        "Detailed_Answer": "驗證是為了確保需求正確地陳述並符合規範"
-                    }
-                },
-                {
-                    "Q_Num": 22,
-                    "Que": "22. 在需求蒐集方法中，問卷的主要優勢是什麼？",
-                    "Detail": {
-                        "Options_A": "可以讓受訪者自由參與討論",
-                        "Options_B": "可以讓大量人員在方便時回答",
-                        "Options_C": "能產生詳細的個人化反饋",
-                        "Options_D": "便於形成開放式討論",
-                        "Ans": "可以讓大量人員在方便時回答",
-                        "Detailed_Answer": "問卷的優勢在於可以讓多人在方便的時間表達意見"
-                    }
-                },
-                {
-                    "Q_Num": 23,
-                    "Que": "23. 哪一項不是快捷法的優點？",
-                    "Detail": {
-                        "Options_A": "有彈性",
-                        "Options_B": "減少風險",
-                        "Options_C": "文檔詳細完整",
-                        "Options_D": "有效率",
-                        "Ans": "文檔詳細完整",
-                        "Detailed_Answer": "快捷法的缺點之一是缺乏結構化和詳細的文檔"
-                    }
-                },
-                {
-                    "Q_Num": 24,
-                    "Que": "24. 快捷法的主要挑戰是什麼？",
-                    "Detail": {
-                        "Options_A": "需求不夠精確",
-                        "Options_B": "缺乏彈性",
-                        "Options_C": "成員技術和人際能力要求高",
-                        "Options_D": "無法快速交付",
-                        "Ans": "成員技術和人際能力要求高",
-                        "Detailed_Answer": "快捷法需要團隊成員具備良好的技術和人際能力"
-                    }
-                },
-                {
-                    "Q_Num": 25,
-                    "Que": "25. 哪一項是 RAD 的缺點？",
-                    "Detail": {
-                        "Options_A": "開發速度慢",
-                        "Options_B": "可能忽略公司的策略需求",
-                        "Options_C": "需求不夠清晰",
-                        "Options_D": "缺乏使用者參與",
-                        "Ans": "可能忽略公司的策略需求",
-                        "Detailed_Answer": "RAD 過於注重系統開發速度，可能忽略公司的策略需求"
-                    }
-                },
-                {
-                    "Q_Num": 26,
-                    "Que": "26. 哪一項是 Scrum 的特點？",
-                    "Detail": {
-                        "Options_A": "無需用戶參與",
-                        "Options_B": "強調團隊活動和交付軟體",
-                        "Options_C": "文檔生成高",
-                        "Options_D": "只適合大型專案",
-                        "Ans": "強調團隊活動和交付軟體",
-                        "Detailed_Answer": "Scrum 強調時間、互動和各種團隊活動以交付軟體"
-                    }
-                },
-                {
-                    "Q_Num": 27,
-                    "Que": "27. 在 RAD 開發過程中，使用者涉入的程度如何？",
-                    "Detail": {
-                        "Options_A": "極少參與",
-                        "Options_B": "只參與最初的需求定義",
-                        "Options_C": "在各個階段都有參與",
-                        "Options_D": "只參與測試階段",
-                        "Ans": "在各個階段都有參與",
-                        "Detailed_Answer": "在 RAD 中，使用者參與各個開發階段，以確保系統滿足需求"
-                    }
-                },
-                {
-                    "Q_Num": 28,
-                    "Que": "28. 需求工程中，使用哪一類軟體來支持需求活動？",
-                    "Detail": {
-                        "Options_A": "生產力軟體",
-                        "Options_B": "圖片處理軟體",
-                        "Options_C": "視訊編輯軟體",
-                        "Options_D": "聊天軟體",
-                        "Ans": "生產力軟體",
-                        "Detailed_Answer": "需求工程中的各項活動可以使用生產力軟體來支持，如文書處理、試算表等"
-                    }
-                },
-                {
-                    "Q_Num": 29,
-                    "Que": "29. 需求蒐集中的腦力激盪技術主要用於什麼？",
-                    "Detail": {
-                        "Options_A": "分析系統性能",
-                        "Options_B": "進行小組討論以解決特定問題",
-                        "Options_C": "設計系統模型",
-                        "Options_D": "測試系統功能",
-                        "Ans": "進行小組討論以解決特定問題",
-                        "Detailed_Answer": "腦力激盪技術主要用於針對特定問題進行小組討論"
-                    }
-                },
-                {
-                    "Q_Num": 30,
-                    "Que": "30. 快捷法的主要優勢是什麼？",
-                    "Detail": {
-                        "Options_A": "過程高度標準化",
-                        "Options_B": "彈性且適應變化",
-                        "Options_C": "需要詳細的文檔紀錄",
-                        "Options_D": "完全排除使用者參與",
-                        "Ans": "彈性且適應變化",
-                        "Detailed_Answer": "快捷法具有高度的彈性，能適應需求的變化"
-                    }
-                }
-            ]
+          "Q_Num": 4,
+          "Que": "4. B2B電子商務最初使用的是什麼技術?",
+          "Detail": {
+            "Options_A": "HTML",
+            "Options_B": "HTTP",
+            "Options_C": "EDI",
+            "Options_D": "FTP",
+            "Ans": "EDI",
+            "Detailed_Answer": "B2B電子商務最初是使用電子資料交換(EDI)進行的。"
+          }
         },
         {
-            "chap": "ch05",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. 在資料流向圖中，資料流符號的形狀是什麼？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "箭頭",
-                        "Options_C": "長方形",
-                        "Options_D": "開放式長方形",
-                        "Ans": "箭頭",
-                        "Detailed_Answer": "箭頭"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. 繪製資料流向圖時,下列哪種情況應該避免？",
-                    "Detail": {
-                        "Options_A": "自然生長",
-                        "Options_B": "資料流連接程序",
-                        "Options_C": "使用標準符號",
-                        "Options_D": "標示資料流名稱",
-                        "Ans": "自然生長",
-                        "Detailed_Answer": "自然生長"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. 程序說明工具不包括以下哪一項？",
-                    "Detail": {
-                        "Options_A": "結構化英文",
-                        "Options_B": "決策表",
-                        "Options_C": "決策樹",
-                        "Options_D": "資料流向圖",
-                        "Ans": "資料流向圖",
-                        "Detailed_Answer": "資料流向圖"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. 邏輯模型和實體模型的主要區別是什麼？",
-                    "Detail": {
-                        "Options_A": "邏輯模型更複雜",
-                        "Options_B": "實體模型更詳細",
-                        "Options_C": "邏輯模型表示系統做什麼,實體模型描述如何建構",
-                        "Options_D": "兩者沒有區別",
-                        "Ans": "邏輯模型表示系統做什麼,實體模型描述如何建構",
-                        "Detailed_Answer": "邏輯模型表示系統做什麼,實體模型描述如何建構"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. 建立一套DFD的第一步是繪製什麼？",
-                    "Detail": {
-                        "Options_A": "圖0",
-                        "Options_B": "環境圖",
-                        "Options_C": "資料字典",
-                        "Options_D": "程序說明",
-                        "Ans": "環境圖",
-                        "Detailed_Answer": "環境圖"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 決策表最適合用來描述什麼？",
-                    "Detail": {
-                        "Options_A": "簡單的線性流程",
-                        "Options_B": "複雜的條件組合",
-                        "Options_C": "系統的硬體需求",
-                        "Options_D": "使用者介面設計",
-                        "Ans": "複雜的條件組合",
-                        "Detailed_Answer": "複雜的條件組合"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 結構化英文的主要目的是什麼？",
-                    "Detail": {
-                        "Options_A": "編寫程式碼",
-                        "Options_B": "清楚精確地描述邏輯程序",
-                        "Options_C": "設計使用者介面",
-                        "Options_D": "繪製系統圖表",
-                        "Ans": "清楚精確地描述邏輯程序",
-                        "Detailed_Answer": "清楚精確地描述邏輯程序"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. DFD的分層過程也被稱為什麼？",
-                    "Detail": {
-                        "Options_A": "壓縮",
-                        "Options_B": "展開",
-                        "Options_C": "合併",
-                        "Options_D": "簡化",
-                        "Ans": "展開",
-                        "Detailed_Answer": "展開"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. 資料流向圖中,哪個符號代表資料儲存處？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "箭頭",
-                        "Options_C": "長方形",
-                        "Options_D": "開放式長方形",
-                        "Ans": "開放式長方形",
-                        "Detailed_Answer": "開放式長方形"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 在DFD中,外部實體通常用什麼符號表示？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "箭頭",
-                        "Options_C": "長方形",
-                        "Options_D": "開放式長方形",
-                        "Ans": "長方形",
-                        "Detailed_Answer": "長方形"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 資料流向圖主要表示系統的哪個方面？",
-                    "Detail": {
-                        "Options_A": "硬體架構",
-                        "Options_B": "資料轉換過程",
-                        "Options_C": "程式碼結構",
-                        "Options_D": "使用者介面設計",
-                        "Ans": "資料轉換過程",
-                        "Detailed_Answer": "資料轉換過程"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 資料流向圖(DFD)的主要用途是什麼？",
-                    "Detail": {
-                        "Options_A": "顯示系統的硬體架構",
-                        "Options_B": "呈現系統如何將輸入資料轉為有用資訊",
-                        "Options_C": "描述系統的程式碼結構",
-                        "Options_D": "展示系統的使用者介面",
-                        "Ans": "呈現系統如何將輸入資料轉為有用資訊",
-                        "Detailed_Answer": "呈現系統如何將輸入資料轉為有用資訊"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 模組化設計基於哪三個邏輯結構的結合？",
-                    "Detail": {
-                        "Options_A": "序列、選擇、反覆",
-                        "Options_B": "輸入、處理、輸出",
-                        "Options_C": "分析、設計、實作",
-                        "Options_D": "定義、開發、維護",
-                        "Ans": "序列、選擇、反覆",
-                        "Detailed_Answer": "序列、選擇、反覆"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 決策樹與決策表相比,有什麼優勢？",
-                    "Detail": {
-                        "Options_A": "可以處理更多的條件",
-                        "Options_B": "以圖形方式呈現,更直觀",
-                        "Options_C": "可以自動生成程式碼",
-                        "Options_D": "可以處理非布林條件",
-                        "Ans": "以圖形方式呈現,更直觀",
-                        "Detailed_Answer": "以圖形方式呈現,更直觀"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. 哪一項不是資料字典報表的常見類型？",
-                    "Detail": {
-                        "Options_A": "所有資料元素的字母順序清單",
-                        "Options_B": "描述每個資料元素的報表",
-                        "Options_C": "資料元素使用情況報表",
-                        "Options_D": "系統效能報表",
-                        "Ans": "系統效能報表",
-                        "Detailed_Answer": "系統效能報表"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 在DFD中,平衡是指什麼？",
-                    "Detail": {
-                        "Options_A": "確保圖形美觀",
-                        "Options_B": "確保輸入和輸出的資料流適當對齊",
-                        "Options_C": "確保所有程序都有相同的複雜度",
-                        "Options_D": "確保使用相同數量的符號",
-                        "Ans": "確保輸入和輸出的資料流適當對齊",
-                        "Detailed_Answer": "確保輸入和輸出的資料流適當對齊"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 在資料字典中,資料元素的可接受值範圍稱為什麼？",
-                    "Detail": {
-                        "Options_A": "域名",
-                        "Options_B": "定義域",
-                        "Options_C": "值域",
-                        "Options_D": "資料類型",
-                        "Ans": "定義域",
-                        "Detailed_Answer": "定義域"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 邏輯模型和實體模型的主要區別是什麼？",
-                    "Detail": {
-                        "Options_A": "邏輯模型更複雜",
-                        "Options_B": "實體模型更詳細",
-                        "Options_C": "邏輯模型表示系統做什麼,實體模型描述如何建構",
-                        "Options_D": "兩者沒有區別",
-                        "Ans": "邏輯模型表示系統做什麼,實體模型描述如何建構",
-                        "Detailed_Answer": "邏輯模型表示系統做什麼,實體模型描述如何建構"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. 四模型法中,不包括哪一個模型？",
-                    "Detail": {
-                        "Options_A": "現有系統實體模型",
-                        "Options_B": "現有系統邏輯模型",
-                        "Options_C": "新系統邏輯模型",
-                        "Options_D": "新系統實體模型",
-                        "Ans": "現有系統實體模型",
-                        "Detailed_Answer": "現有系統實體模型"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 結構化英文使用時應遵循哪些規則？",
-                    "Detail": {
-                        "Options_A": "只使用特定的程式語言",
-                        "Options_B": "使用複雜的技術術語",
-                        "Options_C": "只使用序列、選擇、反覆做為組成要素",
-                        "Options_D": "避免使用縮排",
-                        "Ans": "只使用序列、選擇、反覆做為組成要素",
-                        "Detailed_Answer": "只使用序列、選擇、反覆做為組成要素"
-                    }
-                },
-                {
-                    "Q_Num": 21,
-                    "Que": "21. 資料流向圖中 哪個符號代表程序？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "箭頭",
-                        "Options_C": "長方形",
-                        "Options_D": "開放式長方形",
-                        "Ans": "圓形",
-                        "Detailed_Answer": "圓形"
-                    }
-                },
-                {
-                    "Q_Num": 22,
-                    "Que": "22. 在DFD中,哪種情況被稱為'黑洞'？",
-                    "Detail": {
-                        "Options_A": "程序沒有輸入",
-                        "Options_B": "程序沒有輸出",
-                        "Options_C": "資料流沒有名稱",
-                        "Options_D": "外部實體沒有連接",
-                        "Ans": "程序沒有輸出",
-                        "Detailed_Answer": "程序沒有輸出"
-                    }
-                },
-                {
-                    "Q_Num": 23,
-                    "Que": "23. 在DFD中,程序的命名應該遵循什麼原則？",
-                    "Detail": {
-                        "Options_A": "使用技術術語",
-                        "Options_B": "使用簡短代碼",
-                        "Options_C": "使用一致的方式",
-                        "Options_D": "使用隨機名稱",
-                        "Ans": "使用一致的方式",
-                        "Detailed_Answer": "使用一致的方式"
-                    }
-                },
-                {
-                    "Q_Num": 24,
-                    "Que": "24. 在資料字典中,最小的資料片段稱為什麼？",
-                    "Detail": {
-                        "Options_A": "資料流",
-                        "Options_B": "資料儲存處",
-                        "Options_C": "資料元素",
-                        "Options_D": "資料結構",
-                        "Ans": "資料元素",
-                        "Detailed_Answer": "資料元素"
-                    }
-                },
-                {
-                    "Q_Num": 25,
-                    "Que": "25. 在DFD中,資料儲存處必須如何連接？",
-                    "Detail": {
-                        "Options_A": "直接連接到外部實體",
-                        "Options_B": "直接連接到另一個資料儲存處",
-                        "Options_C": "通過資料流連接到程序",
-                        "Options_D": "不需要連接到任何其他符號",
-                        "Ans": "通過資料流連接到程序",
-                        "Detailed_Answer": "通過資料流連接到程序"
-                    }
-                },
-                {
-                    "Q_Num": 26,
-                    "Que": "26. 資料流向圖(DFD)的主要用途是什麼？",
-                    "Detail": {
-                        "Options_A": "顯示系統的硬體架構",
-                        "Options_B": "呈現系統如何將輸入資料轉為有用資訊",
-                        "Options_C": "描述系統的程式碼結構",
-                        "Options_D": "展示系統的使用者介面",
-                        "Ans": "呈現系統如何將輸入資料轉為有用資訊",
-                        "Detailed_Answer": "呈現系統如何將輸入資料轉為有用資訊"
-                    }
-                },
-                {
-                    "Q_Num": 27,
-                    "Que": "27. 結構化分析工具可以在系統開發生命週期的哪些階段使用？",
-                    "Detail": {
-                        "Options_A": "只能在分析階段",
-                        "Options_B": "只能在設計階段",
-                        "Options_C": "在分析和設計階段都可以",
-                        "Options_D": "只能在實作階段",
-                        "Ans": "在分析和設計階段都可以",
-                        "Detailed_Answer": "在分析和設計階段都可以"
-                    }
-                },
-                {
-                    "Q_Num": 28,
-                    "Que": "28. 資料流向圖中 哪個符號代表程序？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "箭頭",
-                        "Options_C": "長方形",
-                        "Options_D": "開放式長方形",
-                        "Ans": "圓形",
-                        "Detailed_Answer": "圓形"
-                    }
-                },
-                {
-                    "Q_Num": 29,
-                    "Que": "29. 資料字典中通常不會記載哪一項資料元素特性？",
-                    "Detail": {
-                        "Options_A": "名稱",
-                        "Options_B": "型態",
-                        "Options_C": "預設值",
-                        "Options_D": "程式碼",
-                        "Ans": "程式碼",
-                        "Detailed_Answer": "程式碼"
-                    }
-                },
-                {
-                    "Q_Num": 30,
-                    "Que": "30. 什麼是資料字典？",
-                    "Detail": {
-                        "Options_A": "系統的程式碼庫",
-                        "Options_B": "存放系統相關資料的中央倉儲",
-                        "Options_C": "使用者手冊",
-                        "Options_D": "系統的硬體清單",
-                        "Ans": "存放系統相關資料的中央倉儲",
-                        "Detailed_Answer": "存放系統相關資料的中央倉儲"
-                    }
-                }
-            ]
+          "Q_Num": 5,
+          "Que": "5. 供應鏈管理(SCM)軟體主要被哪些組織使用?",
+          "Detail": {
+            "Options_A": "只有小型企業",
+            "Options_B": "大型公司及政府機構",
+            "Options_C": "只有非營利組織",
+            "Options_D": "只有教育機構",
+            "Ans": "大型公司及政府機構",
+            "Detailed_Answer": "大多數的大型公司及政府機構都使用供應鏈管理(SCM)軟體。"
+          }
         },
         {
-            "chap": "ch06",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "1. 物件所有的資料與方法自成一體的特性稱為什麼？",
-                    "Detail": {
-                        "Options_A": "封裝",
-                        "Options_B": "多型",
-                        "Options_C": "繼承",
-                        "Options_D": "類別化",
-                        "Ans": "封裝",
-                        "Detailed_Answer": "封裝"
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "2. 屬於一個更廣分類的類別稱為什麼？",
-                    "Detail": {
-                        "Options_A": "子類別",
-                        "Options_B": "實例",
-                        "Options_C": "超類別",
-                        "Options_D": "方法",
-                        "Ans": "超類別",
-                        "Detailed_Answer": "超類別"
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "3. 在UML中，用來描述兩個類別實例之間關係的是什麼？",
-                    "Detail": {
-                        "Options_A": "繼承",
-                        "Options_B": "基數",
-                        "Options_C": "多型",
-                        "Options_D": "封裝",
-                        "Ans": "基數",
-                        "Detailed_Answer": "基數"
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "4. 物件的特殊屬性，用來形容物件目前狀況的是什麼？",
-                    "Detail": {
-                        "Options_A": "狀態",
-                        "Options_B": "方法",
-                        "Options_C": "訊息",
-                        "Options_D": "類別",
-                        "Ans": "狀態",
-                        "Detailed_Answer": "狀態"
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "5. 在UML中，指出物件如何受到事件影響從一個狀態轉換到另一個狀態的圖稱為什麼？",
-                    "Detail": {
-                        "Options_A": "類別圖",
-                        "Options_B": "使用案例圖",
-                        "Options_C": "循序圖",
-                        "Options_D": "狀態轉換圖",
-                        "Ans": "狀態轉換圖",
-                        "Detailed_Answer": "狀態轉換圖"
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "6. 可以讓子物件衍生父層物件的一個或多個屬性的關係稱為什麼？",
-                    "Detail": {
-                        "Options_A": "封裝",
-                        "Options_B": "繼承",
-                        "Options_C": "多型",
-                        "Options_D": "類別化",
-                        "Ans": "繼承",
-                        "Detailed_Answer": "繼承"
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "7. 在UML中，顯示類別在特定期間內互動情形的圖稱為什麼？",
-                    "Detail": {
-                        "Options_A": "類別圖",
-                        "Options_B": "使用案例圖",
-                        "Options_C": "循序圖",
-                        "Options_D": "活動圖",
-                        "Ans": "循序圖",
-                        "Detailed_Answer": "循序圖"
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "8. 在使用案例說明中不包括下列何者？",
-                    "Detail": {
-                        "Options_A": "先決條件",
-                        "Options_B": "後置條件",
-                        "Options_C": "程式碼",
-                        "Options_D": "替代動作",
-                        "Ans": "程式碼",
-                        "Detailed_Answer": "程式碼"
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "9. 在物件導向分析中，描述物件特質的是什麼？",
-                    "Detail": {
-                        "Options_A": "方法",
-                        "Options_B": "訊息",
-                        "Options_C": "屬性",
-                        "Options_D": "類別",
-                        "Ans": "屬性",
-                        "Detailed_Answer": "屬性"
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "10. 在UML中，類似水平流程圖，顯示動作和事件發生順序的圖稱為什麼？",
-                    "Detail": {
-                        "Options_A": "狀態圖",
-                        "Options_B": "活動圖",
-                        "Options_C": "類別圖",
-                        "Options_D": "循序圖",
-                        "Ans": "活動圖",
-                        "Detailed_Answer": "活動圖"
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "11. 類別中更加仔細的分類稱為什麼？",
-                    "Detail": {
-                        "Options_A": "子類別",
-                        "Options_B": "超類別",
-                        "Options_C": "實例",
-                        "Options_D": "方法",
-                        "Ans": "子類別",
-                        "Detailed_Answer": "子類別"
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "12. 在類別圖中，類別之間的關係通常用什麼表示？",
-                    "Detail": {
-                        "Options_A": "直線",
-                        "Options_B": "圓形",
-                        "Options_C": "矩形",
-                        "Options_D": "箭頭",
-                        "Ans": "直線",
-                        "Detailed_Answer": "直線"
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "13. 在物件導向分析中，物件間互動的基本方式是什麼？",
-                    "Detail": {
-                        "Options_A": "繼承",
-                        "Options_B": "封裝",
-                        "Options_C": "多型",
-                        "Options_D": "訊息",
-                        "Ans": "訊息",
-                        "Detailed_Answer": "訊息"
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "14. 物件模型的主要優點不包括下列何者？",
-                    "Detail": {
-                        "Options_A": "可模組化",
-                        "Options_B": "難以維護",
-                        "Options_C": "可重複使用",
-                        "Options_D": "易於整合",
-                        "Ans": "難以維護",
-                        "Detailed_Answer": "難以維護"
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "15. 在UML中，使用案例圖主要用於表示什麼？",
-                    "Detail": {
-                        "Options_A": "系統結構",
-                        "Options_B": "資料流程",
-                        "Options_C": "系統功能",
-                        "Options_D": "物件狀態",
-                        "Ans": "系統功能",
-                        "Detailed_Answer": "系統功能"
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "16. 屬於一個群組或分類的物件稱為什麼？",
-                    "Detail": {
-                        "Options_A": "實例",
-                        "Options_B": "方法",
-                        "Options_C": "屬性",
-                        "Options_D": "類別",
-                        "Ans": "類別",
-                        "Detailed_Answer": "類別"
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "17. 在UML中，起始於一個使用案例與指使系統執行某種功能的外在實體稱為什麼？",
-                    "Detail": {
-                        "Options_A": "行動者",
-                        "Options_B": "使用案例",
-                        "Options_C": "類別",
-                        "Options_D": "方法",
-                        "Ans": "行動者",
-                        "Detailed_Answer": "行動者"
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "18. 在UML中，代表特定企業功能或流程步驟的是什麼？",
-                    "Detail": {
-                        "Options_A": "類別圖",
-                        "Options_B": "狀態圖",
-                        "Options_C": "使用案例",
-                        "Options_D": "活動圖",
-                        "Ans": "使用案例",
-                        "Detailed_Answer": "使用案例"
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "19. 在類別圖中，類別名稱通常放在什麼位置？",
-                    "Detail": {
-                        "Options_A": "矩形頂端",
-                        "Options_B": "矩形中間",
-                        "Options_C": "矩形底部",
-                        "Options_D": "矩形外部",
-                        "Ans": "矩形頂端",
-                        "Detailed_Answer": "矩形頂端"
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "20. 在循序圖中，用來指出一個物件發送或接收訊息時間的是什麼？",
-                    "Detail": {
-                        "Options_A": "焦點",
-                        "Options_B": "生命線",
-                        "Options_C": "訊息",
-                        "Options_D": "類別",
-                        "Ans": "焦點",
-                        "Detailed_Answer": "焦點"
-                    }
-                },
-                {
-                    "Q_Num": 21,
-                    "Que": "21. 同樣一個訊息傳給兩個不一樣的物件時可以有不一樣的結果，這種特性稱為什麼？",
-                    "Detail": {
-                        "Options_A": "封裝",
-                        "Options_B": "多型",
-                        "Options_C": "繼承",
-                        "Options_D": "類別化",
-                        "Ans": "多型",
-                        "Detailed_Answer": "多型"
-                    }
-                },
-                {
-                    "Q_Num": 22,
-                    "Que": "22. 在循序圖中，代表物件可以和使用案例中其他物件進行互動期間的是什麼？",
-                    "Detail": {
-                        "Options_A": "焦點",
-                        "Options_B": "生命線",
-                        "Options_C": "訊息",
-                        "Options_D": "類別",
-                        "Ans": "生命線",
-                        "Detailed_Answer": "生命線"
-                    }
-                },
-                {
-                    "Q_Num": 23,
-                    "Que": "23. 物件導向分析的主要優點是什麼？",
-                    "Detail": {
-                        "Options_A": "複雜的系統結構",
-                        "Options_B": "易於和物件導向程式語言整合",
-                        "Options_C": "難以維護",
-                        "Options_D": "不可重複使用",
-                        "Ans": "易於和物件導向程式語言整合",
-                        "Detailed_Answer": "易於和物件導向程式語言整合"
-                    }
-                },
-                {
-                    "Q_Num": 24,
-                    "Que": "24. 當物件收到訊息或指令時所執行的任務或功能稱為什麼？",
-                    "Detail": {
-                        "Options_A": "狀態",
-                        "Options_B": "屬性",
-                        "Options_C": "類別",
-                        "Options_D": "方法",
-                        "Ans": "方法",
-                        "Detailed_Answer": "方法"
-                    }
-                },
-                {
-                    "Q_Num": 25,
-                    "Que": "25. 下列何者不是物件的基本特性？",
-                    "Detail": {
-                        "Options_A": "封裝",
-                        "Options_B": "依賴",
-                        "Options_C": "繼承",
-                        "Options_D": "多型",
-                        "Ans": "依賴",
-                        "Detailed_Answer": "依賴"
-                    }
-                },
-                {
-                    "Q_Num": 26,
-                    "Que": "26. 在UML中，系統邊界通常用什麼形狀表示？",
-                    "Detail": {
-                        "Options_A": "圓形",
-                        "Options_B": "三角形",
-                        "Options_C": "菱形",
-                        "Options_D": "矩形",
-                        "Ans": "矩形",
-                        "Detailed_Answer": "矩形"
-                    }
-                },
-                {
-                    "Q_Num": 27,
-                    "Que": "27. 表示系統中的人員、事件及互動的模型稱為什麼？",
-                    "Detail": {
-                        "Options_A": "類別圖",
-                        "Options_B": "狀態圖",
-                        "Options_C": "商業流程塑模",
-                        "Options_D": "循序圖",
-                        "Ans": "商業流程塑模",
-                        "Detailed_Answer": "商業流程塑模"
-                    }
-                },
-                {
-                    "Q_Num": 28,
-                    "Que": "28. 物件導向分析的最終產出是什麼？",
-                    "Detail": {
-                        "Options_A": "程式碼",
-                        "Options_B": "使用案例",
-                        "Options_C": "類別圖",
-                        "Options_D": "物件模型",
-                        "Ans": "物件模型",
-                        "Detailed_Answer": "物件模型"
-                    }
-                },
-                {
-                    "Q_Num": 29,
-                    "Que": "29. 在UML中，顯示參與使用案例的類別並記載類別之間關係的圖稱為什麼？",
-                    "Detail": {
-                        "Options_A": "使用案例圖",
-                        "Options_B": "循序圖",
-                        "Options_C": "活動圖",
-                        "Options_D": "類別圖",
-                        "Ans": "類別圖",
-                        "Detailed_Answer": "類別圖"
-                    }
-                },
-                {
-                    "Q_Num": 30,
-                    "Que": "30. 以下何者不是UML圖形的類型？",
-                    "Detail": {
-                        "Options_A": "資料流程圖",
-                        "Options_B": "類別圖",
-                        "Options_C": "循序圖",
-                        "Options_D": "活動圖",
-                        "Ans": "資料流程圖",
-                        "Detailed_Answer": "資料流程圖"
-                    }
-                }
-            ]
+          "Q_Num": 6,
+          "Que": "6. 業務概況不包括以下哪項信息?",
+          "Detail": {
+            "Options_A": "公司使命",
+            "Options_B": "公司功能",
+            "Options_C": "公司流程",
+            "Options_D": "員工個人喜好",
+            "Ans": "員工個人喜好",
+            "Detailed_Answer": "業務概況描述公司的使命、功能、流程等，但通常不包括員工個人喜好。"
+          }
         },
         {
-            "chap": "test01",
-            "questions": [
-                {
-                    "Q_Num": 1,
-                    "Que": "系統軟體的主要功能是什麼？",
-                    "Detail": {
-                        "Options_A": "管理硬體",
-                        "Options_B": "處理客戶關係",
-                        "Options_C": "支援日常商業功能",
-                        "Options_D": "進行數據分析",
-                        "Ans": "管理硬體",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 2,
-                    "Que": "以下哪一項不是應用軟體的類型？",
-                    "Detail": {
-                        "Options_A": "管理資訊系統",
-                        "Options_B": "水平系統",
-                        "Options_C": "垂直系統",
-                        "Options_D": "作業系統",
-                        "Ans": "作業系統",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 3,
-                    "Que": "資訊科技(IT)是指什麼的結合？",
-                    "Detail": {
-                        "Options_A": "軟體與網路",
-                        "Options_B": "軟體與硬體產品及服務",
-                        "Options_C": "硬體與軟體",
-                        "Options_D": "網路與人員",
-                        "Ans": "軟體與硬體產品及服務",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 4,
-                    "Que": "系統軟體的主要功能是什麼？",
-                    "Detail": {
-                        "Options_A": "管理硬體",
-                        "Options_B": "處理客戶關係",
-                        "Options_C": "支援日常商業功能",
-                        "Options_D": "進行數據分析",
-                        "Ans": "管理硬體",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 5,
-                    "Que": "在markdown中，你會如何將 'quiz' 這個詞連結到 URL http://markdownquiz.com？",
-                    "Detail": {
-                        "Options_A": "[\"quiz\"](http://markdownquiz.com)",
-                        "Options_B": "[](http://markdownquiz.com)",
-                        "Options_C": "[quiz](http://markdownquiz.com)",
-                        "Options_D": "[quiz](\"http://markdownquiz.com\")",
-                        "Ans": "[quiz](http://markdownquiz.com)",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 6,
-                    "Que": "下列何者是使用雛型的開發方法？",
-                    "Detail": {
-                        "Options_A": "結構化分析",
-                        "Options_B": "物件導向方法",
-                        "Options_C": "批次處理",
-                        "Options_D": "快捷法",
-                        "Ans": "快捷法",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 7,
-                    "Que": "下列何者是使用繼承的開發方法？",
-                    "Detail": {
-                        "Options_A": "結構化分析",
-                        "Options_B": "物件導向方法",
-                        "Options_C": "批次處理",
-                        "Options_D": "快捷法",
-                        "Ans": "物件導向方法",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 8,
-                    "Que": "系統分析師式擔任管理者和___之間的翻譯者？",
-                    "Detail": {
-                        "Options_A": "程式設計師",
-                        "Options_B": "使用者",
-                        "Options_C": "投資者",
-                        "Options_D": "機器",
-                        "Ans": "使用者",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 9,
-                    "Que": "下列何者是一套制訂長期性的組織目標、策略及資源的流程？",
-                    "Detail": {
-                        "Options_A": "行動方案",
-                        "Options_B": "系統請求",
-                        "Options_C": "策略規劃",
-                        "Options_D": "個案分析",
-                        "Ans": "策略規劃",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 10,
-                    "Que": "大部分的資訊系統專案都是從下列何者提出開始？",
-                    "Detail": {
-                        "Options_A": "行動方案",
-                        "Options_B": "系統請求",
-                        "Options_C": "策略規劃",
-                        "Options_D": "個案分析",
-                        "Ans": "系統請求",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 11,
-                    "Que": "下列何者是為了達成使命必須先完成的短期目標？",
-                    "Detail": {
-                        "Options_A": "關鍵成功因素",
-                        "Options_B": "系統請求",
-                        "Options_C": "策略規劃",
-                        "Options_D": "個案分析",
-                        "Ans": "關鍵成功因素",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 12,
-                    "Que": "一連串的任務，假如這些任務延誤了，將會影響整個專案的最終完成日期，稱為？",
-                    "Detail": {
-                        "Options_A": "critical path",
-                        "Options_B": "milestone",
-                        "Options_C": "SDLC",
-                        "Options_D": "task",
-                        "Ans": "critical path",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 13,
-                    "Que": "具有開始與結束時間的任何一項工作，稱為？",
-                    "Detail": {
-                        "Options_A": "critical path",
-                        "Options_B": "milestone",
-                        "Options_C": "SDLC",
-                        "Options_D": "task",
-                        "Ans": "task",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 14,
-                    "Que": "一個用於監督進度與管理專案的可識別參考點，稱為？",
-                    "Detail": {
-                        "Options_A": "critical path",
-                        "Options_B": "milestone",
-                        "Options_C": "SDLC",
-                        "Options_D": "task",
-                        "Ans": "milestone",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 15,
-                    "Que": "BPMN代表什麼？",
-                    "Detail": {
-                        "Options_A": "Business Process Modeling Notation",
-                        "Options_B": "Business Process Management Network",
-                        "Options_C": "Business Profile Modeling Notation",
-                        "Options_D": "Business Profile Management Network",
-                        "Ans": "Business Process Modeling Notation",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 16,
-                    "Que": "CASE工具是什麼的縮寫？",
-                    "Detail": {
-                        "Options_A": "Complex Application Software Environment",
-                        "Options_B": "Centralized Application System Evaluation",
-                        "Options_C": "Computer Assisted Software Engineering",
-                        "Options_D": "Computer Analysis System Engineering",
-                        "Ans": "Computer Assisted Software Engineering",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 17,
-                    "Que": "操作可行性主要關注什麼問題？",
-                    "Detail": {
-                        "Options_A": "系統的用戶接受度",
-                        "Options_B": "系統的技術實現",
-                        "Options_C": "系統的成本效益",
-                        "Options_D": "系統的開發時間",
-                        "Ans": "系統的用戶接受度",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 18,
-                    "Que": "PERT和CPM的主要區別是什麼？",
-                    "Detail": {
-                        "Options_A": "圖形表示方式不同",
-                        "Options_B": "用途不同",
-                        "Options_C": "這兩種方法的差異已經隨時間消失",
-                        "Options_D": "發明者不同",
-                        "Ans": "這兩種方法的差異已經隨時間消失",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 19,
-                    "Que": "當創建自己的 GitHub 個人資料首頁時，預設的顯示檔名為何？",
-                    "Detail": {
-                        "Options_A": "profile.md",
-                        "Options_B": "README.md",
-                        "Options_C": "index.html",
-                        "Options_D": "github-profile.txt",
-                        "Ans": "README.md",
-                        "Detailed_Answer": ""
-                    }
-                },
-                {
-                    "Q_Num": 20,
-                    "Que": "高科大管理學院的使命（MISSION）主要聚焦於哪些方面？",
-                    "Detail": {
-                        "Options_A": "純粹學術研究和理論發展",
-                        "Options_B": "培養學生的國際語言能力",
-                        "Options_C": "提供高品質學習環境，整合學理與產業需求，培育具國際觀的經營管理人才",
-                        "Options_D": "專注於本地企業需求，培養區域性管理人才",
-                        "Ans": "提供高品質學習環境，整合學理與產業需求，培育具國際觀的經營管理人才",
-                        "Detailed_Answer": ""
-                    }
-                }
-            ]
+          "Q_Num": 7,
+          "Que": "7. 商業流程塑模(BPM)的主要目的是什麼?",
+          "Detail": {
+            "Options_A": "以圖形化方式顯示一個或多個商業流程",
+            "Options_B": "計算公司利潤",
+            "Options_C": "管理員工考勤",
+            "Options_D": "制定市場策略",
+            "Ans": "以圖形化方式顯示一個或多個商業流程",
+            "Detailed_Answer": "商業流程塑模(BPM)是以圖形化方式顯示一個或多個商業流程。"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. BPMN代表什麼?",
+          "Detail": {
+            "Options_A": "Business Process Management Network",
+            "Options_B": "Business Profile Modeling Notation",
+            "Options_C": "Business Process Modeling Notation",
+            "Options_D": "Business Profile Management Network",
+            "Ans": "Business Process Modeling Notation",
+            "Detailed_Answer": "BPMN代表Business Process Modeling Notation，即商業流程塑模記法。"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. 以下哪項不是影響現代商業的主要趨勢?",
+          "Detail": {
+            "Options_A": "全球化的快速增加",
+            "Options_B": "紙質文件使用的增加",
+            "Options_C": "技術整合",
+            "Options_D": "雲端運算的快速成長",
+            "Ans": "紙質文件使用的增加",
+            "Detailed_Answer": "紙質文件使用的增加不是現代商業的主要趨勢。相反，數字化和無紙化是當前的趨勢。"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 在電子商務系統中，用戶通常通過什麼與移動設備上的系統進行交互?",
+          "Detail": {
+            "Options_A": "App",
+            "Options_B": "郵件",
+            "Options_C": "傳真",
+            "Options_D": "電話",
+            "Ans": "App",
+            "Detailed_Answer": "在移動設備上，用戶通常是通過所謂的app與系統進行交互。"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 資訊科技(IT)是指什麼的結合?",
+          "Detail": {
+            "Options_A": "硬體與軟體",
+            "Options_B": "軟體與網路",
+            "Options_C": "網路與人員",
+            "Options_D": "軟體與硬體產品及服務",
+            "Ans": "軟體與硬體產品及服務",
+            "Detailed_Answer": "資訊科技(IT)是指軟體與硬體產品及服務的結合。"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 系統分析與設計是一個什麼樣的過程?",
+          "Detail": {
+            "Options_A": "快速開發",
+            "Options_B": "隨機測試",
+            "Options_C": "發展高品質資訊系統的逐步過程",
+            "Options_D": "單次完成的項目",
+            "Ans": "發展高品質資訊系統的逐步過程",
+            "Detailed_Answer": "系統分析與設計是一個發展高品質資訊系統的逐步過程。"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 資訊系統結合了哪些要素來支援企業需求?",
+          "Detail": {
+            "Options_A": "只有軟體",
+            "Options_B": "資訊科技、人員及資料",
+            "Options_C": "只有硬體",
+            "Options_D": "只有資料",
+            "Ans": "資訊科技、人員及資料",
+            "Detailed_Answer": "資訊系統結合了資訊科技、人員及資料來支援企業需求。"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 系統設計師的職責不包括哪一項?",
+          "Detail": {
+            "Options_A": "銷售產品",
+            "Options_B": "協助規劃資訊系統",
+            "Options_C": "開發資訊系統",
+            "Options_D": "維護資訊系統",
+            "Ans": "銷售產品",
+            "Detailed_Answer": "系統設計師的職責主要包括協助規劃、開發及維護資訊系統，而不包括銷售產品。"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. 關鍵任務系統是指什麼?",
+          "Detail": {
+            "Options_A": "對公司無關緊要的系統",
+            "Options_B": "對公司營運有非常重大影響的系統",
+            "Options_C": "只用於娛樂的系統",
+            "Options_D": "僅用於通訊的系統",
+            "Ans": "對公司營運有非常重大影響的系統",
+            "Detailed_Answer": "關鍵任務系統是指對公司營運有非常重大影響的系統。"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 在資訊系統中，資料和資訊有何區別?",
+          "Detail": {
+            "Options_A": "資料是基本事實，資訊是對使用者有價值的輸出",
+            "Options_B": "資料和資訊是同義詞",
+            "Options_C": "資訊是輸入，資料是輸出",
+            "Options_D": "資料只存在於資料庫中，資訊只存在於報告中",
+            "Ans": "資料是基本事實，資訊是對使用者有價值的輸出",
+            "Detailed_Answer": "資料包含基本的事實，是系統的原料；而資訊是對使用者具有價值的輸出資料。"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 根據摩爾定律，積體電路晶片上的晶體管數量大約多久會倍增?",
+          "Detail": {
+            "Options_A": "每6個月",
+            "Options_B": "每12個月",
+            "Options_C": "每24個月",
+            "Options_D": "每36個月",
+            "Ans": "每24個月",
+            "Detailed_Answer": "摩爾定律指出，積體電路晶片上的晶體管數量每24個月將倍增。"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 系統軟體的主要功能是什麼?",
+          "Detail": {
+            "Options_A": "支援日常商業功能",
+            "Options_B": "管理硬體",
+            "Options_C": "處理客戶關係",
+            "Options_D": "進行數據分析",
+            "Ans": "管理硬體",
+            "Detailed_Answer": "系統軟體主要用來管理硬體。"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. 以下哪一項不是應用軟體的類型?",
+          "Detail": {
+            "Options_A": "作業系統",
+            "Options_B": "水平系統",
+            "Options_C": "垂直系統",
+            "Options_D": "老舊系統",
+            "Ans": "作業系統",
+            "Detailed_Answer": "作業系統是系統軟體，而不是應用軟體。水平系統、垂直系統和老舊系統都是應用軟體的類型。"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 在資訊系統中，流程是指什麼?",
+          "Detail": {
+            "Options_A": "只有資料的移動",
+            "Options_B": "僅限於硬體操作",
+            "Options_C": "只包括軟體運行",
+            "Options_D": "為達成特定結果所經歷的任務以及所需執行的業務功能",
+            "Ans": "為達成特定結果所經歷的任務以及所需執行的業務功能",
+            "Detailed_Answer": "流程描述為達成特定結果所經歷的任務以及所需執行的業務功能。"
+          }
         }
-    ]
-  }
+      ]
+    },
+    {
+      "chap": "ch02",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "1. 時程可行性主要考慮什麼問題？",
+          "Detail": {
+            "Options_A": "系統的技術難度",
+            "Options_B": "系統的經濟效益",
+            "Options_C": "系統的用戶接受度",
+            "Options_D": "系統能否在允許時間內完成",
+            "Ans": "系統能否在允許時間內完成",
+            "Detailed_Answer": "時程可行性主要考慮專案是否可以在允許時間內完成，包括時間與成本之間的關係。"
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "2. 以下哪項不是SWOT分析的組成部分？",
+          "Detail": {
+            "Options_A": "優勢",
+            "Options_B": "弱勢",
+            "Options_C": "機會",
+            "Options_D": "策略",
+            "Ans": "策略",
+            "Detailed_Answer": "SWOT分析包括優勢(Strengths)、弱勢(Weaknesses)、機會(Opportunities)和威脅(Threats)，不包括策略。"
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "3. IT部門在策略規劃中的主要作用是什麼？",
+          "Detail": {
+            "Options_A": "制定公司願景",
+            "Options_B": "決定財務預算",
+            "Options_C": "確保專案支持整體商業策略",
+            "Options_D": "決定人力資源分配",
+            "Ans": "確保專案支持整體商業策略",
+            "Detailed_Answer": "IT部門的主要作用是確保專案能夠支持整體的商業策略及作業需求。"
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "4. 企業個案應該能夠回答的問題不包括：",
+          "Detail": {
+            "Options_A": "為什麼要進行這項專案",
+            "Options_B": "需要花多少錢與多久時間",
+            "Options_C": "公司的股票價值如何",
+            "Options_D": "如何衡量其成功與否",
+            "Ans": "公司的股票價值如何",
+            "Detailed_Answer": "企業個案不需要回答公司的股票價值如何，這超出了單個專案的範疇。"
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "5. 企業個案是指什麼？",
+          "Detail": {
+            "Options_A": "公司的歷史記錄",
+            "Options_B": "提案的提出理由或正當性",
+            "Options_C": "財務報表",
+            "Options_D": "市場調查報告",
+            "Ans": "提案的提出理由或正當性",
+            "Detailed_Answer": "企業個案是指一個提案的提出理由或正當性，它應該清楚地描述專案並提供執行的正當性。"
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "6. 系統審查委員會的主要功能是什麼？",
+          "Detail": {
+            "Options_A": "開發新系統",
+            "Options_B": "評估系統請求",
+            "Options_C": "維護現有系統",
+            "Options_D": "培訓IT人員",
+            "Ans": "評估系統請求",
+            "Detailed_Answer": "系統審查委員會的主要功能是評估系統請求，決定哪些專案應該進行。"
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "7. 以下哪項不屬於有形成本？",
+          "Detail": {
+            "Options_A": "硬體設備費用",
+            "Options_B": "軟體購買費用",
+            "Options_C": "員工士氣降低",
+            "Options_D": "培訓費用",
+            "Ans": "員工士氣降低",
+            "Detailed_Answer": "員工士氣降低屬於無形成本，其他選項都是可以用金錢衡量的有形成本。"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. 影響資訊專案的內部因素不包括：",
+          "Detail": {
+            "Options_A": "高階主管",
+            "Options_B": "使用者要求",
+            "Options_C": "競爭者",
+            "Options_D": "現行系統和資料",
+            "Ans": "競爭者",
+            "Detailed_Answer": "競爭者是外部因素，不是內部因素。內部因素包括高階主管、使用者要求、現行系統和資料等。"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. SWOT分析中的'S'代表什麼？",
+          "Detail": {
+            "Options_A": "弱點",
+            "Options_B": "威脅",
+            "Options_C": "機會",
+            "Options_D": "優勢",
+            "Ans": "優勢",
+            "Detailed_Answer": "在SWOT分析中，'S'代表Strength（優勢），是指組織的內部優勢。"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 經濟可行性主要比較什麼？",
+          "Detail": {
+            "Options_A": "系統效益和總體擁有成本",
+            "Options_B": "系統開發時間和使用壽命",
+            "Options_C": "系統功能和用戶需求",
+            "Options_D": "系統複雜度和維護難度",
+            "Ans": "系統效益和總體擁有成本",
+            "Detailed_Answer": "經濟可行性主要比較系統帶來的效益是否會超過總體擁有成本(TCO)。"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 策略規劃是一個制訂什麼的流程？",
+          "Detail": {
+            "Options_A": "短期目標",
+            "Options_B": "長期目標",
+            "Options_C": "中期目標",
+            "Options_D": "季度目標",
+            "Ans": "長期目標",
+            "Detailed_Answer": "策略規劃是制訂長期性的組織目標、策略及資源的流程。"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 以下哪項不是策略規劃工具？",
+          "Detail": {
+            "Options_A": "Microsoft Word",
+            "Options_B": "Microsoft Excel",
+            "Options_C": "CASE工具",
+            "Options_D": "公司年報",
+            "Ans": "公司年報",
+            "Detailed_Answer": "公司年報不是策略規劃工具，而Microsoft Word、Excel和CASE工具都可用於策略規劃。"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 系統請求通常由誰提出？",
+          "Detail": {
+            "Options_A": "只能由IT部門提出",
+            "Options_B": "只能由高層管理者提出",
+            "Options_C": "只能由外部顧問提出",
+            "Options_D": "可以由組織內任何部門或個人提出",
+            "Ans": "可以由組織內任何部門或個人提出",
+            "Detailed_Answer": "系統請求可以由組織內任何部門或個人提出，不限於特定群體。"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 技術可行性主要評估什麼？",
+          "Detail": {
+            "Options_A": "系統的經濟效益",
+            "Options_B": "系統所需的技術資源",
+            "Options_C": "系統的操作難度",
+            "Options_D": "系統的開發時間",
+            "Ans": "系統所需的技術資源",
+            "Detailed_Answer": "技術可行性主要評估系統所需的技術資源，包括必要的硬體、軟體及網路資源。"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. CASE工具是什麼的縮寫？",
+          "Detail": {
+            "Options_A": "Computer Assisted Software Engineering",
+            "Options_B": "Computer Analysis System Engineering",
+            "Options_C": "Complex Application Software Environment",
+            "Options_D": "Centralized Application System Evaluation",
+            "Ans": "Computer Assisted Software Engineering",
+            "Detailed_Answer": "CASE是Computer Assisted Software Engineering（電腦輔助軟體工程）的縮寫。"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 初步調查報告中不包括以下哪個部分？",
+          "Detail": {
+            "Options_A": "系統請求摘要",
+            "Options_B": "調查發現",
+            "Options_C": "系統詳細設計",
+            "Options_D": "行動方案",
+            "Ans": "系統詳細設計",
+            "Detailed_Answer": "初步調查報告中不包括系統詳細設計，這屬於後續階段的工作。"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 初步調查的第一步是什麼？",
+          "Detail": {
+            "Options_A": "定義專案範疇",
+            "Options_B": "執行實情調查",
+            "Options_C": "了解問題或機會",
+            "Options_D": "評估可行性",
+            "Ans": "了解問題或機會",
+            "Detailed_Answer": "初步調查的第一步是了解問題或機會，這是整個調查的起點。"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 以下哪項不是影響資訊專案的外部因素？",
+          "Detail": {
+            "Options_A": "科技",
+            "Options_B": "供應商",
+            "Options_C": "顧客",
+            "Options_D": "公司財務",
+            "Ans": "公司財務",
+            "Detailed_Answer": "公司財務是內部因素，不是外部因素。外部因素包括科技、供應商、顧客等。"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. XY圖（散布圖）主要用於觀察什麼？",
+          "Detail": {
+            "Options_A": "兩個變數之間的關係",
+            "Options_B": "系統性能變化",
+            "Options_C": "用戶滿意度",
+            "Options_D": "成本效益",
+            "Ans": "兩個變數之間的關係",
+            "Detailed_Answer": "XY圖主要用於觀察兩個變數之間的相互關係或模式。"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 操作可行性主要關注什麼問題？",
+          "Detail": {
+            "Options_A": "系統的技術實現",
+            "Options_B": "系統的成本效益",
+            "Options_C": "系統的開發時間",
+            "Options_D": "系統的用戶接受度",
+            "Ans": "系統的用戶接受度",
+            "Detailed_Answer": "操作可行性主要關注系統的用戶接受度，包括管理層和用戶是否支持該專案等問題。"
+          }
+        },
+        {
+          "Q_Num": 21,
+          "Que": "21. 心智圖在策略規劃中的主要作用是什麼？",
+          "Detail": {
+            "Options_A": "可視化思考和組織想法",
+            "Options_B": "進行財務分析",
+            "Options_C": "評估技術可行性",
+            "Options_D": "制定營銷策略",
+            "Ans": "可視化思考和組織想法",
+            "Detailed_Answer": "心智圖主要用於可視化思考和組織想法，有助於策略規劃過程中的創意思考。"
+          }
+        },
+        {
+          "Q_Num": 22,
+          "Que": "22. 策略規劃的起點是什麼？",
+          "Detail": {
+            "Options_A": "SWOT分析",
+            "Options_B": "關鍵成功因素",
+            "Options_C": "財務預算",
+            "Options_D": "使命宣言",
+            "Ans": "使命宣言",
+            "Detailed_Answer": "策略規劃以使命宣言為起點，反映公司願景、目的及價值。"
+          }
+        },
+        {
+          "Q_Num": 23,
+          "Que": "23. 以下哪項不是系統請求的主要原因？",
+          "Detail": {
+            "Options_A": "提升效能",
+            "Options_B": "降低成本",
+            "Options_C": "增加員工數量",
+            "Options_D": "提供更多資訊",
+            "Ans": "增加員工數量",
+            "Detailed_Answer": "增加員工數量不是系統請求的主要原因。主要原因包括提升效能、降低成本、提供更多資訊等。"
+          }
+        },
+        {
+          "Q_Num": 24,
+          "Que": "24. 帕列圖主要用於什麼目的？",
+          "Detail": {
+            "Options_A": "展示系統架構",
+            "Options_B": "排序問題的成因",
+            "Options_C": "評估經濟可行性",
+            "Options_D": "分析用戶需求",
+            "Ans": "排序問題的成因",
+            "Detailed_Answer": "帕列圖主要用於展示並排序問題的成因，讓分析師能夠聚焦於最重要的問題。"
+          }
+        },
+        {
+          "Q_Num": 25,
+          "Que": "25. 以下哪項不是影響系統請求優先順序的因素？",
+          "Detail": {
+            "Options_A": "降低成本",
+            "Options_B": "增加收益",
+            "Options_C": "提供更多資訊",
+            "Options_D": "系統開發人員的偏好",
+            "Ans": "系統開發人員的偏好",
+            "Detailed_Answer": "系統開發人員的偏好不應該影響系統請求的優先順序，其他選項都是合理的考慮因素。"
+          }
+        },
+        {
+          "Q_Num": 26,
+          "Que": "26. 以下哪項不是初步調查中實情調查的方法？",
+          "Detail": {
+            "Options_A": "分析組織圖",
+            "Options_B": "進行訪談",
+            "Options_C": "觀察作業",
+            "Options_D": "制定解決方案",
+            "Ans": "制定解決方案",
+            "Detailed_Answer": "制定解決方案不屬於實情調查的方法，其他選項都是收集資訊的有效方法。"
+          }
+        },
+        {
+          "Q_Num": 27,
+          "Que": "27. 評估系統請求的可行性時，不需要考慮以下哪個方面？",
+          "Detail": {
+            "Options_A": "操作可行性",
+            "Options_B": "技術可行性",
+            "Options_C": "美學可行性",
+            "Options_D": "經濟可行性",
+            "Ans": "美學可行性",
+            "Detailed_Answer": "評估系統請求的可行性時，主要考慮操作、技術、經濟和時程可行性，不包括美學可行性。"
+          }
+        },
+        {
+          "Q_Num": 28,
+          "Que": "28. 系統請求表格的主要目的是什麼？",
+          "Detail": {
+            "Options_A": "使申請程序運作流暢",
+            "Options_B": "增加申請難度",
+            "Options_C": "減少系統請求數量",
+            "Options_D": "延長審核時間",
+            "Ans": "使申請程序運作流暢",
+            "Detailed_Answer": "系統請求表格的主要目的是使申請程序運作流暢，確保一致性和易於理解。"
+          }
+        },
+        {
+          "Q_Num": 29,
+          "Que": "29. 什麼類型的專案稱為自由裁量專案？",
+          "Detail": {
+            "Options_A": "管理者可以選擇是否進行的專案",
+            "Options_B": "必須立即執行的專案",
+            "Options_C": "法律要求的專案",
+            "Options_D": "維護現有系統的專案",
+            "Ans": "管理者可以選擇是否進行的專案",
+            "Detailed_Answer": "自由裁量專案是指管理者可以選擇是否進行的專案，有一定的決策空間。"
+          }
+        }
+      ]
+    },
+    {
+      "chap": "ch03",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "1. 結構化逐步審查的主要目的是什麼？",
+          "Detail": {
+            "Options_A": "增加專案成本",
+            "Options_B": "延長專案時間",
+            "Options_C": "讓團隊成員互相審查工作",
+            "Options_D": "減少專案範疇",
+            "Ans": "讓團隊成員互相審查工作",
+            "Detailed_Answer": "結構化逐步審查是一種將專案團隊成員的工作交由團隊中其他成員進行審查的方式，目的是提高質量和發現問題。"
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "2. PERT和CPM的主要區別是什麼？",
+          "Detail": {
+            "Options_A": "發明者不同",
+            "Options_B": "用途不同",
+            "Options_C": "圖形表示方式不同",
+            "Options_D": "這兩種方法的差異已經隨時間消失",
+            "Ans": "這兩種方法的差異已經隨時間消失",
+            "Detailed_Answer": "PERT和CPM最初由不同機構發明，但隨著時間推移，兩者的差異已經消失。"
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "3. 甘特圖是什麼類型的圖表？",
+          "Detail": {
+            "Options_A": "圓餅圖",
+            "Options_B": "柱狀圖",
+            "Options_C": "折線圖",
+            "Options_D": "水平直條圖",
+            "Ans": "水平直條圖",
+            "Detailed_Answer": "甘特圖是一種水平的直條圖，用來表示一連串的任務及其時間安排。"
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "4. 大多數專案管理軟體不提供哪種功能？",
+          "Detail": {
+            "Options_A": "PERT/CPM圖",
+            "Options_B": "甘特圖",
+            "Options_C": "資源時程規劃",
+            "Options_D": "自動編寫程式碼",
+            "Ans": "自動編寫程式碼",
+            "Detailed_Answer": "大多數專案管理軟體提供PERT/CPM圖、甘特圖和資源時程規劃等功能，但不會自動編寫程式碼。"
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "5. 下列哪項不是造成專案成本超支的常見原因？",
+          "Detail": {
+            "Options_A": "不實際的估計",
+            "Options_B": "未能精確估算所有成本",
+            "Options_C": "未能監控進度",
+            "Options_D": "專案提前完成",
+            "Ans": "專案提前完成",
+            "Detailed_Answer": "專案提前完成通常不會導致成本超支，其他選項都是可能導致成本超支的原因。"
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "6. 專案三角包含哪些因素？",
+          "Detail": {
+            "Options_A": "成本、範疇、品質",
+            "Options_B": "成本、範疇、時程",
+            "Options_C": "成本、品質、時程",
+            "Options_D": "範疇、品質、時程",
+            "Ans": "成本、範疇、時程",
+            "Detailed_Answer": "專案三角包括成本、範疇和時程三個互動因素。任何一項因素的改變都會影響到其他兩項。"
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "7. 關鍵路徑是指什麼？",
+          "Detail": {
+            "Options_A": "最短的任務路徑",
+            "Options_B": "最長的任務路徑",
+            "Options_C": "影響專案完成日期的任務序列",
+            "Options_D": "最容易完成的任務序列",
+            "Ans": "影響專案完成日期的任務序列",
+            "Detailed_Answer": "關鍵路徑是指一連串的任務，如果這些任務延誤了，將會影響整個專案的最終完成日期。"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. 風險管理的第一步是什麼？",
+          "Detail": {
+            "Options_A": "分析風險",
+            "Options_B": "監控風險",
+            "Options_C": "發展風險管理計畫",
+            "Options_D": "確認風險",
+            "Ans": "發展風險管理計畫",
+            "Detailed_Answer": "風險管理的第一步是發展一份風險管理計畫，這為後續的風險管理活動提供指導。"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. 什麼是依存任務？",
+          "Detail": {
+            "Options_A": "可以同時進行的任務",
+            "Options_B": "必須按順序完成的任務",
+            "Options_C": "可以隨時開始的任務",
+            "Options_D": "不需要完成的任務",
+            "Ans": "必須按順序完成的任務",
+            "Detailed_Answer": "依存任務是指必須一個接一個完成的任務，後一個任務需要等前一個任務完成才能開始。"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 多重後續任務中的\"後續任務\"是指什麼？",
+          "Detail": {
+            "Options_A": "前置任務完成後可以開始的任務",
+            "Options_B": "必須在其他任務之前完成的任務",
+            "Options_C": "可以同時進行的任務",
+            "Options_D": "不依賴其他任務的任務",
+            "Ans": "前置任務完成後可以開始的任務",
+            "Detailed_Answer": "在多重後續任務模式中，後續任務是指在前置任務完成後可以開始的任務。"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 質性風險分析和量化風險分析的主要區別是什麼？",
+          "Detail": {
+            "Options_A": "時間長短",
+            "Options_B": "成本高低",
+            "Options_C": "數據類型",
+            "Options_D": "執行人員",
+            "Ans": "數據類型",
+            "Detailed_Answer": "質性風險分析和量化風險分析的主要區別在於使用的數據類型:質性分析使用描述性數據，而量化分析使用數值數據。"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 在專案管理中，什麼是里程碑？",
+          "Detail": {
+            "Options_A": "最長的任務",
+            "Options_B": "最短的任務",
+            "Options_C": "標誌重要階段完成的時間點",
+            "Options_D": "最昂貴的任務",
+            "Ans": "標誌重要階段完成的時間點",
+            "Detailed_Answer": "里程碑是標誌專案重要階段完成的時間點，用於監控專案進度和成果。"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 專案三角中，如果增加專案範疇，通常會對其他因素產生什麼影響？",
+          "Detail": {
+            "Options_A": "減少成本和時間",
+            "Options_B": "增加成本或時間",
+            "Options_C": "不影響其他因素",
+            "Options_D": "只影響質量",
+            "Ans": "增加成本或時間",
+            "Detailed_Answer": "增加專案範疇通常會導致成本增加或時間延長，因為這三個因素是互相影響的。"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 專案經理通常如何估計任務所需時間？",
+          "Detail": {
+            "Options_A": "直接猜測",
+            "Options_B": "使用加權公式",
+            "Options_C": "詢問團隊成員",
+            "Options_D": "參考類似專案",
+            "Ans": "使用加權公式",
+            "Detailed_Answer": "專案經理通常會透過加權公式來估計每項任務的所需時間，包括最佳、可能和最差情況估計。"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. 下列哪項不是影響任務所需時間的因素？",
+          "Detail": {
+            "Options_A": "專案大小",
+            "Options_B": "人力資源",
+            "Options_C": "相似專案的經驗",
+            "Options_D": "專案經理的心情",
+            "Ans": "專案經理的心情",
+            "Detailed_Answer": "專案大小、人力資源和相似專案的經驗都會影響任務所需時間，而專案經理的心情不應該是考慮因素。"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 專案時程問題通常不包括以下哪項？",
+          "Detail": {
+            "Options_A": "未發覺任務依存性",
+            "Options_B": "不良的監督與控制方法",
+            "Options_C": "團隊成員之間的衝突",
+            "Options_D": "預算充足",
+            "Ans": "預算充足",
+            "Detailed_Answer": "預算充足通常不會直接導致時程問題，其他選項都可能造成專案時程延誤。"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 專案蔓延(project creep)指的是什麼現象？",
+          "Detail": {
+            "Options_A": "專案提前完成",
+            "Options_B": "專案範圍不斷擴大",
+            "Options_C": "專案成本降低",
+            "Options_D": "專案團隊人數增加",
+            "Ans": "專案範圍不斷擴大",
+            "Detailed_Answer": "專案蔓延指的是專案範圍不斷擴大的現象，這可能導致時間延長和成本增加。"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 什麼是工作分解結構(WBS)？",
+          "Detail": {
+            "Options_A": "一種甘特圖",
+            "Options_B": "一種PERT圖",
+            "Options_C": "將專案拆解成一系列較小任務",
+            "Options_D": "一種風險管理工具",
+            "Ans": "將專案拆解成一系列較小任務",
+            "Detailed_Answer": "工作分解結構(WBS)是將一個專案拆解成一系列較小的任務，便於管理和執行。"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. 下列哪項不是專案經理的主要任務？",
+          "Detail": {
+            "Options_A": "專案規劃",
+            "Options_B": "專案排程",
+            "Options_C": "專案監督",
+            "Options_D": "專案執行",
+            "Ans": "專案執行",
+            "Detailed_Answer": "專案經理的主要任務包括專案規劃、排程、監督和回報，而非直接執行專案。"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 專案經理通常如何處理專案中出現的問題？",
+          "Detail": {
+            "Options_A": "忽視問題",
+            "Options_B": "立即終止專案",
+            "Options_C": "評估影響並尋找解決方案",
+            "Options_D": "總是延長專案期限",
+            "Ans": "評估影響並尋找解決方案",
+            "Detailed_Answer": "專案經理通常會評估問題的影響，並尋找適當的解決方案，以盡量減少對專案的負面影響。"
+          }
+        },
+        {
+          "Q_Num": 21,
+          "Que": "21. 在專案管理中，並行任務是指什麼？",
+          "Detail": {
+            "Options_A": "必須按順序完成的任務",
+            "Options_B": "可以同時進行的任務",
+            "Options_C": "不需要完成的任務",
+            "Options_D": "最重要的任務",
+            "Ans": "可以同時進行的任務",
+            "Detailed_Answer": "並行任務是指可以同時進行的任務，這種任務安排可以幫助縮短專案總時間。"
+          }
+        },
+        {
+          "Q_Num": 22,
+          "Que": "22. 專案經理為什麼要特別關注關鍵路徑上的任務？",
+          "Detail": {
+            "Options_A": "這些任務最容易",
+            "Options_B": "這些任務最便宜",
+            "Options_C": "這些任務決定了專案完成時間",
+            "Options_D": "這些任務最不重要",
+            "Ans": "這些任務決定了專案完成時間",
+            "Detailed_Answer": "關鍵路徑上的任務決定了整個專案的完成時間，因此專案經理需要特別關注這些任務的進度。"
+          }
+        },
+        {
+          "Q_Num": 23,
+          "Que": "23. 什麼是專案回報？",
+          "Detail": {
+            "Options_A": "向團隊成員發放獎金",
+            "Options_B": "定期匯報專案進度和狀態",
+            "Options_C": "終止失敗的專案",
+            "Options_D": "增加專案預算",
+            "Ans": "定期匯報專案進度和狀態",
+            "Detailed_Answer": "專案回報是指定期向相關利益相關者匯報專案的進度、狀態、問題和成果。"
+          }
+        },
+        {
+          "Q_Num": 24,
+          "Que": "24. 專案管理軟體中的行事曆檢視主要用途是什麼？",
+          "Detail": {
+            "Options_A": "顯示任務依存關係",
+            "Options_B": "計算關鍵路徑",
+            "Options_C": "顯示每日或每週的工作安排",
+            "Options_D": "估算專案成本",
+            "Ans": "顯示每日或每週的工作安排",
+            "Detailed_Answer": "行事曆檢視主要用於顯示每日或每週的工作安排，幫助團隊成員了解自己的工作時間表。"
+          }
+        },
+        {
+          "Q_Num": 25,
+          "Que": "25. 工作分解結構(WBS)的主要優點是什麼？",
+          "Detail": {
+            "Options_A": "增加專案複雜度",
+            "Options_B": "減少溝通需求",
+            "Options_C": "便於管理和執行",
+            "Options_D": "自動完成任務",
+            "Ans": "便於管理和執行",
+            "Detailed_Answer": "工作分解結構的主要優點是將大型專案拆解成較小、可管理的任務，便於規劃、執行和控制。"
+          }
+        },
+        {
+          "Q_Num": 26,
+          "Que": "26. 專案狀態會議的主要功能是什麼？",
+          "Detail": {
+            "Options_A": "延長專案時間",
+            "Options_B": "增加專案成本",
+            "Options_C": "分享信息和討論問題",
+            "Options_D": "減少團隊成員工作量",
+            "Ans": "分享信息和討論問題",
+            "Detailed_Answer": "專案狀態會議的主要功能是讓團隊成員分享信息，討論共同的問題，並解釋新的技術。"
+          }
+        },
+        {
+          "Q_Num": 27,
+          "Que": "27. 在專案管理中，事件或里程碑是指什麼？",
+          "Detail": {
+            "Options_A": "任何一項工作",
+            "Options_B": "一個可識別的參考點",
+            "Options_C": "專案的最後期限",
+            "Options_D": "專案的開始時間",
+            "Ans": "一個可識別的參考點",
+            "Detailed_Answer": "事件或里程碑是一個用於監督進度與管理專案的可識別參考點。"
+          }
+        },
+        {
+          "Q_Num": 28,
+          "Que": "28. 專案管理中的\"專案蔓延\"通常會導致什麼結果？",
+          "Detail": {
+            "Options_A": "提前完成專案",
+            "Options_B": "降低專案成本",
+            "Options_C": "提高專案質量",
+            "Options_D": "延長時間和增加成本",
+            "Ans": "延長時間和增加成本",
+            "Detailed_Answer": "專案蔓延通常會導致專案時間延長和成本增加，因為專案範圍不斷擴大超出原定計劃。"
+          }
+        },
+        {
+          "Q_Num": 29,
+          "Que": "29. 風險矩陣通常用來表示什麼？",
+          "Detail": {
+            "Options_A": "任務依存關係",
+            "Options_B": "資源分配",
+            "Options_C": "風險發生的機率和影響程度",
+            "Options_D": "專案進度",
+            "Ans": "風險發生的機率和影響程度",
+            "Detailed_Answer": "風險矩陣通常用來表示風險發生的機率和其可能造成的影響程度，幫助專案經理進行風險評估和管理。"
+          }
+        },
+        {
+          "Q_Num": 30,
+          "Que": "30. 在PERT/CPM圖中，任務盒通常不包含哪種信息？",
+          "Detail": {
+            "Options_A": "任務名稱",
+            "Options_B": "任務編號",
+            "Options_C": "任務需時",
+            "Options_D": "任務負責人",
+            "Ans": "任務負責人",
+            "Detailed_Answer": "在PERT/CPM圖的任務盒中，通常包含任務名稱、編號和需時，但不會顯示任務負責人。"
+          }
+        }
+      ]
+    },
+    {
+      "chap": "ch04",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "1. RAD 的主要目標是什麼？",
+          "Detail": {
+            "Options_A": "減少開發時間與成本",
+            "Options_B": "提高系統複雜性",
+            "Options_C": "增加需求精確性",
+            "Options_D": "強調文書紀錄",
+            "Ans": "減少開發時間與成本",
+            "Detailed_Answer": "RAD 目標在於縮短開發時間和減少支出"
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "2. 快捷法的特點是什麼？",
+          "Detail": {
+            "Options_A": "確保系統開發過程中沒有錯誤",
+            "Options_B": "強調連續的使用者反饋和雛型修正",
+            "Options_C": "完全避免文書紀錄",
+            "Options_D": "強調系統的安全性",
+            "Ans": "強調連續的使用者反饋和雛型修正",
+            "Detailed_Answer": "快捷法強調使用者的持續反饋，並根據反饋修正雛型"
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "3. 使用哪一種圖可以用來顯示系統如何儲存、運作、轉變資料？",
+          "Detail": {
+            "Options_A": "使用案例圖",
+            "Options_B": "功能分解圖",
+            "Options_C": "資料流向圖 (DFD)",
+            "Options_D": "循序圖",
+            "Ans": "資料流向圖 (DFD)",
+            "Detailed_Answer": "資料流向圖用來描述系統中的資料如何被儲存、運作和轉變"
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "4. 在 JAD 會議中，主要參與者包括哪些人？",
+          "Detail": {
+            "Options_A": "系統設計師與用戶",
+            "Options_B": "專案組長和記錄組員",
+            "Options_C": "資料分析師和測試工程師",
+            "Options_D": "開發團隊和市場部門",
+            "Ans": "專案組長和記錄組員",
+            "Detailed_Answer": "JAD 會議的參與者包括具備良好人際技巧的專案組長和負責記錄的組員"
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "5. RAD 的優點包括哪一項？",
+          "Detail": {
+            "Options_A": "減少成本和開發時間",
+            "Options_B": "需求分析更為精確",
+            "Options_C": "產生更多的文檔",
+            "Options_D": "複雜的開發過程",
+            "Ans": "減少成本和開發時間",
+            "Detailed_Answer": "RAD 可以在減少成本和時間的情況下完成系統開發"
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "6. 需求工程包含哪三個主要活動？",
+          "Detail": {
+            "Options_A": "設計、開發、維護",
+            "Options_B": "蒐集需求、表示需求、確認與驗證需求",
+            "Options_C": "規劃、測試、部署",
+            "Options_D": "分析、設計、實施",
+            "Ans": "蒐集需求、表示需求、確認與驗證需求",
+            "Detailed_Answer": "需求工程包含三項活動：蒐集需求、表示需求、確認與驗證需求"
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "7. 哪一項是需求蒐集中的第一步？",
+          "Detail": {
+            "Options_A": "表示需求",
+            "Options_B": "確認需求",
+            "Options_C": "驗證需求",
+            "Options_D": "蒐集需求",
+            "Ans": "蒐集需求",
+            "Detailed_Answer": "蒐集需求是需求工程流程中的第一步"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. UML 的使用案例圖用來表示什麼？",
+          "Detail": {
+            "Options_A": "系統性能",
+            "Options_B": "使用者與系統之間的互動",
+            "Options_C": "資料流",
+            "Options_D": "功能分解",
+            "Ans": "使用者與系統之間的互動",
+            "Detailed_Answer": "使用案例圖用來表示使用者與系統之間的互動"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. 在 RAD 開發中，最重要的特徵之一是什麼？",
+          "Detail": {
+            "Options_A": "系統完全獨立開發",
+            "Options_B": "使用者在各階段的參與",
+            "Options_C": "高度的文檔生成",
+            "Options_D": "減少用戶的參與",
+            "Ans": "使用者在各階段的參與",
+            "Detailed_Answer": "RAD 強調使用者參與以縮短開發時間和支出"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 聯合應用開發 (JAD) 的主要優點是什麼？",
+          "Detail": {
+            "Options_A": "成本較低",
+            "Options_B": "使用者能有效參與需求工程流程",
+            "Options_C": "需求的精確性較低",
+            "Options_D": "節省文件紀錄的時間",
+            "Ans": "使用者能有效參與需求工程流程",
+            "Detailed_Answer": "JAD 的優點是能有效讓相關人員參與需求工程流程，讓使用者更支持新系統"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 在需求確認與驗證中，確認的目的是什麼？",
+          "Detail": {
+            "Options_A": "檢查需求是否正確地陳述",
+            "Options_B": "檢查需求是否符合使用者的真實需求",
+            "Options_C": "測試系統性能",
+            "Options_D": "設計系統架構",
+            "Ans": "檢查需求是否符合使用者的真實需求",
+            "Detailed_Answer": "確認的目的是確保陳述的需求能滿足使用者的需求"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 功能分解圖 (FDD) 的用途是什麼？",
+          "Detail": {
+            "Options_A": "顯示使用者與系統的互動",
+            "Options_B": "描述系統中各層的功能與流程",
+            "Options_C": "顯示系統的資料流向",
+            "Options_D": "記錄系統需求的變更",
+            "Ans": "描述系統中各層的功能與流程",
+            "Detailed_Answer": "功能分解圖以由上而下的方式描述系統的各層功能和流程"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 在需求蒐集期間，霍桑效應指的是什麼？",
+          "Detail": {
+            "Options_A": "觀察者的出現影響被觀察者的行為",
+            "Options_B": "訪談過程中使用者的意見不被考慮",
+            "Options_C": "文件查閱時資料缺失",
+            "Options_D": "開發團隊忽視需求變更",
+            "Ans": "觀察者的出現影響被觀察者的行為",
+            "Detailed_Answer": "霍桑效應指的是在觀察期間，由於觀察者的出現，被觀察者的行為可能會有所改變"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 哪一項是使用循序圖的目的？",
+          "Detail": {
+            "Options_A": "顯示資料流向",
+            "Options_B": "表述物件之間的互動及其時間",
+            "Options_C": "描述業務流程",
+            "Options_D": "展示系統的功能層次",
+            "Ans": "表述物件之間的互動及其時間",
+            "Detailed_Answer": "循序圖用於表述系統中物件之間的互動及其時間順序"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. 哪一種圖表可以描述商業流程？",
+          "Detail": {
+            "Options_A": "功能分解圖",
+            "Options_B": "商業流程模型 (BPM)",
+            "Options_C": "資料流向圖",
+            "Options_D": "使用案例圖",
+            "Ans": "商業流程模型 (BPM)",
+            "Detailed_Answer": "商業流程模型用來描述一個或多個商業流程"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 在訪談蒐集需求的過程中，哪一個步驟是第一步？",
+          "Detail": {
+            "Options_A": "建立訪談問題",
+            "Options_B": "決定訪談對象",
+            "Options_C": "記錄訪談",
+            "Options_D": "準備訪談",
+            "Ans": "決定訪談對象",
+            "Detailed_Answer": "在訪談蒐集需求中，第一步是決定要訪談的對象"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 哪一個需求蒐集技術適合用來了解現有的業務流程？",
+          "Detail": {
+            "Options_A": "文件查閱",
+            "Options_B": "問卷",
+            "Options_C": "抽樣",
+            "Options_D": "腦力激盪",
+            "Ans": "文件查閱",
+            "Detailed_Answer": "文件查閱可以提供對現有業務流程的詳細理解"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 系統需求可分為哪兩種類型？",
+          "Detail": {
+            "Options_A": "功能性和安全性",
+            "Options_B": "性能性和非性能性",
+            "Options_C": "功能性和非功能性",
+            "Options_D": "實用性和擴展性",
+            "Ans": "功能性和非功能性",
+            "Detailed_Answer": "系統需求可以分為功能性和非功能性"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. 需求確認和需求驗證的區別是什麼？",
+          "Detail": {
+            "Options_A": "驗證是確認需求是否正確地陳述，確認是檢查是否滿足業務需求",
+            "Options_B": "驗證是檢查需求文檔，確認是測試需求的實現",
+            "Options_C": "驗證是測試代碼，確認是檢查文檔",
+            "Options_D": "確認是設計，驗證是開發",
+            "Ans": "驗證是確認需求是否正確地陳述，確認是檢查是否滿足業務需求",
+            "Detailed_Answer": "驗證是檢查需求是否正確地陳述，而確認則是確定需求是否能滿足業務需求"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 哪種需求蒐集方法適合觀察系統的實際操作？",
+          "Detail": {
+            "Options_A": "訪談",
+            "Options_B": "問卷",
+            "Options_C": "觀察",
+            "Options_D": "抽樣",
+            "Ans": "觀察",
+            "Detailed_Answer": "觀察適合用來理解系統的實際操作過程"
+          }
+        },
+        {
+          "Q_Num": 21,
+          "Que": "21. 需求的驗證是為了確保什麼？",
+          "Detail": {
+            "Options_A": "系統已完成測試",
+            "Options_B": "需求正確地陳述並符合規範",
+            "Options_C": "使用者已經滿意系統",
+            "Options_D": "系統已經完成設計",
+            "Ans": "需求正確地陳述並符合規範",
+            "Detailed_Answer": "驗證是為了確保需求正確地陳述並符合規範"
+          }
+        },
+        {
+          "Q_Num": 22,
+          "Que": "22. 在需求蒐集方法中，問卷的主要優勢是什麼？",
+          "Detail": {
+            "Options_A": "可以讓受訪者自由參與討論",
+            "Options_B": "可以讓大量人員在方便時回答",
+            "Options_C": "能產生詳細的個人化反饋",
+            "Options_D": "便於形成開放式討論",
+            "Ans": "可以讓大量人員在方便時回答",
+            "Detailed_Answer": "問卷的優勢在於可以讓多人在方便的時間表達意見"
+          }
+        },
+        {
+          "Q_Num": 23,
+          "Que": "23. 哪一項不是快捷法的優點？",
+          "Detail": {
+            "Options_A": "有彈性",
+            "Options_B": "減少風險",
+            "Options_C": "文檔詳細完整",
+            "Options_D": "有效率",
+            "Ans": "文檔詳細完整",
+            "Detailed_Answer": "快捷法的缺點之一是缺乏結構化和詳細的文檔"
+          }
+        },
+        {
+          "Q_Num": 24,
+          "Que": "24. 快捷法的主要挑戰是什麼？",
+          "Detail": {
+            "Options_A": "需求不夠精確",
+            "Options_B": "缺乏彈性",
+            "Options_C": "成員技術和人際能力要求高",
+            "Options_D": "無法快速交付",
+            "Ans": "成員技術和人際能力要求高",
+            "Detailed_Answer": "快捷法需要團隊成員具備良好的技術和人際能力"
+          }
+        },
+        {
+          "Q_Num": 25,
+          "Que": "25. 哪一項是 RAD 的缺點？",
+          "Detail": {
+            "Options_A": "開發速度慢",
+            "Options_B": "可能忽略公司的策略需求",
+            "Options_C": "需求不夠清晰",
+            "Options_D": "缺乏使用者參與",
+            "Ans": "可能忽略公司的策略需求",
+            "Detailed_Answer": "RAD 過於注重系統開發速度，可能忽略公司的策略需求"
+          }
+        },
+        {
+          "Q_Num": 26,
+          "Que": "26. 哪一項是 Scrum 的特點？",
+          "Detail": {
+            "Options_A": "無需用戶參與",
+            "Options_B": "強調團隊活動和交付軟體",
+            "Options_C": "文檔生成高",
+            "Options_D": "只適合大型專案",
+            "Ans": "強調團隊活動和交付軟體",
+            "Detailed_Answer": "Scrum 強調時間、互動和各種團隊活動以交付軟體"
+          }
+        },
+        {
+          "Q_Num": 27,
+          "Que": "27. 在 RAD 開發過程中，使用者涉入的程度如何？",
+          "Detail": {
+            "Options_A": "極少參與",
+            "Options_B": "只參與最初的需求定義",
+            "Options_C": "在各個階段都有參與",
+            "Options_D": "只參與測試階段",
+            "Ans": "在各個階段都有參與",
+            "Detailed_Answer": "在 RAD 中，使用者參與各個開發階段，以確保系統滿足需求"
+          }
+        },
+        {
+          "Q_Num": 28,
+          "Que": "28. 需求工程中，使用哪一類軟體來支持需求活動？",
+          "Detail": {
+            "Options_A": "生產力軟體",
+            "Options_B": "圖片處理軟體",
+            "Options_C": "視訊編輯軟體",
+            "Options_D": "聊天軟體",
+            "Ans": "生產力軟體",
+            "Detailed_Answer": "需求工程中的各項活動可以使用生產力軟體來支持，如文書處理、試算表等"
+          }
+        },
+        {
+          "Q_Num": 29,
+          "Que": "29. 需求蒐集中的腦力激盪技術主要用於什麼？",
+          "Detail": {
+            "Options_A": "分析系統性能",
+            "Options_B": "進行小組討論以解決特定問題",
+            "Options_C": "設計系統模型",
+            "Options_D": "測試系統功能",
+            "Ans": "進行小組討論以解決特定問題",
+            "Detailed_Answer": "腦力激盪技術主要用於針對特定問題進行小組討論"
+          }
+        },
+        {
+          "Q_Num": 30,
+          "Que": "30. 快捷法的主要優勢是什麼？",
+          "Detail": {
+            "Options_A": "過程高度標準化",
+            "Options_B": "彈性且適應變化",
+            "Options_C": "需要詳細的文檔紀錄",
+            "Options_D": "完全排除使用者參與",
+            "Ans": "彈性且適應變化",
+            "Detailed_Answer": "快捷法具有高度的彈性，能適應需求的變化"
+          }
+        }
+      ]
+    },
+    {
+      "chap": "ch05",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "1. 在資料流向圖中，資料流符號的形狀是什麼？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "箭頭",
+            "Options_C": "長方形",
+            "Options_D": "開放式長方形",
+            "Ans": "箭頭",
+            "Detailed_Answer": "箭頭"
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "2. 繪製資料流向圖時,下列哪種情況應該避免？",
+          "Detail": {
+            "Options_A": "自然生長",
+            "Options_B": "資料流連接程序",
+            "Options_C": "使用標準符號",
+            "Options_D": "標示資料流名稱",
+            "Ans": "自然生長",
+            "Detailed_Answer": "自然生長"
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "3. 程序說明工具不包括以下哪一項？",
+          "Detail": {
+            "Options_A": "結構化英文",
+            "Options_B": "決策表",
+            "Options_C": "決策樹",
+            "Options_D": "資料流向圖",
+            "Ans": "資料流向圖",
+            "Detailed_Answer": "資料流向圖"
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "4. 邏輯模型和實體模型的主要區別是什麼？",
+          "Detail": {
+            "Options_A": "邏輯模型更複雜",
+            "Options_B": "實體模型更詳細",
+            "Options_C": "邏輯模型表示系統做什麼,實體模型描述如何建構",
+            "Options_D": "兩者沒有區別",
+            "Ans": "邏輯模型表示系統做什麼,實體模型描述如何建構",
+            "Detailed_Answer": "邏輯模型表示系統做什麼,實體模型描述如何建構"
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "5. 建立一套DFD的第一步是繪製什麼？",
+          "Detail": {
+            "Options_A": "圖0",
+            "Options_B": "環境圖",
+            "Options_C": "資料字典",
+            "Options_D": "程序說明",
+            "Ans": "環境圖",
+            "Detailed_Answer": "環境圖"
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "6. 決策表最適合用來描述什麼？",
+          "Detail": {
+            "Options_A": "簡單的線性流程",
+            "Options_B": "複雜的條件組合",
+            "Options_C": "系統的硬體需求",
+            "Options_D": "使用者介面設計",
+            "Ans": "複雜的條件組合",
+            "Detailed_Answer": "複雜的條件組合"
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "7. 結構化英文的主要目的是什麼？",
+          "Detail": {
+            "Options_A": "編寫程式碼",
+            "Options_B": "清楚精確地描述邏輯程序",
+            "Options_C": "設計使用者介面",
+            "Options_D": "繪製系統圖表",
+            "Ans": "清楚精確地描述邏輯程序",
+            "Detailed_Answer": "清楚精確地描述邏輯程序"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. DFD的分層過程也被稱為什麼？",
+          "Detail": {
+            "Options_A": "壓縮",
+            "Options_B": "展開",
+            "Options_C": "合併",
+            "Options_D": "簡化",
+            "Ans": "展開",
+            "Detailed_Answer": "展開"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. 資料流向圖中,哪個符號代表資料儲存處？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "箭頭",
+            "Options_C": "長方形",
+            "Options_D": "開放式長方形",
+            "Ans": "開放式長方形",
+            "Detailed_Answer": "開放式長方形"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 在DFD中,外部實體通常用什麼符號表示？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "箭頭",
+            "Options_C": "長方形",
+            "Options_D": "開放式長方形",
+            "Ans": "長方形",
+            "Detailed_Answer": "長方形"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 資料流向圖主要表示系統的哪個方面？",
+          "Detail": {
+            "Options_A": "硬體架構",
+            "Options_B": "資料轉換過程",
+            "Options_C": "程式碼結構",
+            "Options_D": "使用者介面設計",
+            "Ans": "資料轉換過程",
+            "Detailed_Answer": "資料轉換過程"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 資料流向圖(DFD)的主要用途是什麼？",
+          "Detail": {
+            "Options_A": "顯示系統的硬體架構",
+            "Options_B": "呈現系統如何將輸入資料轉為有用資訊",
+            "Options_C": "描述系統的程式碼結構",
+            "Options_D": "展示系統的使用者介面",
+            "Ans": "呈現系統如何將輸入資料轉為有用資訊",
+            "Detailed_Answer": "呈現系統如何將輸入資料轉為有用資訊"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 模組化設計基於哪三個邏輯結構的結合？",
+          "Detail": {
+            "Options_A": "序列、選擇、反覆",
+            "Options_B": "輸入、處理、輸出",
+            "Options_C": "分析、設計、實作",
+            "Options_D": "定義、開發、維護",
+            "Ans": "序列、選擇、反覆",
+            "Detailed_Answer": "序列、選擇、反覆"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 決策樹與決策表相比,有什麼優勢？",
+          "Detail": {
+            "Options_A": "可以處理更多的條件",
+            "Options_B": "以圖形方式呈現,更直觀",
+            "Options_C": "可以自動生成程式碼",
+            "Options_D": "可以處理非布林條件",
+            "Ans": "以圖形方式呈現,更直觀",
+            "Detailed_Answer": "以圖形方式呈現,更直觀"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. 哪一項不是資料字典報表的常見類型？",
+          "Detail": {
+            "Options_A": "所有資料元素的字母順序清單",
+            "Options_B": "描述每個資料元素的報表",
+            "Options_C": "資料元素使用情況報表",
+            "Options_D": "系統效能報表",
+            "Ans": "系統效能報表",
+            "Detailed_Answer": "系統效能報表"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 在DFD中,平衡是指什麼？",
+          "Detail": {
+            "Options_A": "確保圖形美觀",
+            "Options_B": "確保輸入和輸出的資料流適當對齊",
+            "Options_C": "確保所有程序都有相同的複雜度",
+            "Options_D": "確保使用相同數量的符號",
+            "Ans": "確保輸入和輸出的資料流適當對齊",
+            "Detailed_Answer": "確保輸入和輸出的資料流適當對齊"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 在資料字典中,資料元素的可接受值範圍稱為什麼？",
+          "Detail": {
+            "Options_A": "域名",
+            "Options_B": "定義域",
+            "Options_C": "值域",
+            "Options_D": "資料類型",
+            "Ans": "定義域",
+            "Detailed_Answer": "定義域"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 邏輯模型和實體模型的主要區別是什麼？",
+          "Detail": {
+            "Options_A": "邏輯模型更複雜",
+            "Options_B": "實體模型更詳細",
+            "Options_C": "邏輯模型表示系統做什麼,實體模型描述如何建構",
+            "Options_D": "兩者沒有區別",
+            "Ans": "邏輯模型表示系統做什麼,實體模型描述如何建構",
+            "Detailed_Answer": "邏輯模型表示系統做什麼,實體模型描述如何建構"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. 四模型法中,不包括哪一個模型？",
+          "Detail": {
+            "Options_A": "現有系統實體模型",
+            "Options_B": "現有系統邏輯模型",
+            "Options_C": "新系統邏輯模型",
+            "Options_D": "新系統實體模型",
+            "Ans": "現有系統實體模型",
+            "Detailed_Answer": "現有系統實體模型"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 結構化英文使用時應遵循哪些規則？",
+          "Detail": {
+            "Options_A": "只使用特定的程式語言",
+            "Options_B": "使用複雜的技術術語",
+            "Options_C": "只使用序列、選擇、反覆做為組成要素",
+            "Options_D": "避免使用縮排",
+            "Ans": "只使用序列、選擇、反覆做為組成要素",
+            "Detailed_Answer": "只使用序列、選擇、反覆做為組成要素"
+          }
+        },
+        {
+          "Q_Num": 21,
+          "Que": "21. 資料流向圖中 哪個符號代表程序？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "箭頭",
+            "Options_C": "長方形",
+            "Options_D": "開放式長方形",
+            "Ans": "圓形",
+            "Detailed_Answer": "圓形"
+          }
+        },
+        {
+          "Q_Num": 22,
+          "Que": "22. 在DFD中,哪種情況被稱為'黑洞'？",
+          "Detail": {
+            "Options_A": "程序沒有輸入",
+            "Options_B": "程序沒有輸出",
+            "Options_C": "資料流沒有名稱",
+            "Options_D": "外部實體沒有連接",
+            "Ans": "程序沒有輸出",
+            "Detailed_Answer": "程序沒有輸出"
+          }
+        },
+        {
+          "Q_Num": 23,
+          "Que": "23. 在DFD中,程序的命名應該遵循什麼原則？",
+          "Detail": {
+            "Options_A": "使用技術術語",
+            "Options_B": "使用簡短代碼",
+            "Options_C": "使用一致的方式",
+            "Options_D": "使用隨機名稱",
+            "Ans": "使用一致的方式",
+            "Detailed_Answer": "使用一致的方式"
+          }
+        },
+        {
+          "Q_Num": 24,
+          "Que": "24. 在資料字典中,最小的資料片段稱為什麼？",
+          "Detail": {
+            "Options_A": "資料流",
+            "Options_B": "資料儲存處",
+            "Options_C": "資料元素",
+            "Options_D": "資料結構",
+            "Ans": "資料元素",
+            "Detailed_Answer": "資料元素"
+          }
+        },
+        {
+          "Q_Num": 25,
+          "Que": "25. 在DFD中,資料儲存處必須如何連接？",
+          "Detail": {
+            "Options_A": "直接連接到外部實體",
+            "Options_B": "直接連接到另一個資料儲存處",
+            "Options_C": "通過資料流連接到程序",
+            "Options_D": "不需要連接到任何其他符號",
+            "Ans": "通過資料流連接到程序",
+            "Detailed_Answer": "通過資料流連接到程序"
+          }
+        },
+        {
+          "Q_Num": 26,
+          "Que": "26. 資料流向圖(DFD)的主要用途是什麼？",
+          "Detail": {
+            "Options_A": "顯示系統的硬體架構",
+            "Options_B": "呈現系統如何將輸入資料轉為有用資訊",
+            "Options_C": "描述系統的程式碼結構",
+            "Options_D": "展示系統的使用者介面",
+            "Ans": "呈現系統如何將輸入資料轉為有用資訊",
+            "Detailed_Answer": "呈現系統如何將輸入資料轉為有用資訊"
+          }
+        },
+        {
+          "Q_Num": 27,
+          "Que": "27. 結構化分析工具可以在系統開發生命週期的哪些階段使用？",
+          "Detail": {
+            "Options_A": "只能在分析階段",
+            "Options_B": "只能在設計階段",
+            "Options_C": "在分析和設計階段都可以",
+            "Options_D": "只能在實作階段",
+            "Ans": "在分析和設計階段都可以",
+            "Detailed_Answer": "在分析和設計階段都可以"
+          }
+        },
+        {
+          "Q_Num": 28,
+          "Que": "28. 資料流向圖中 哪個符號代表程序？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "箭頭",
+            "Options_C": "長方形",
+            "Options_D": "開放式長方形",
+            "Ans": "圓形",
+            "Detailed_Answer": "圓形"
+          }
+        },
+        {
+          "Q_Num": 29,
+          "Que": "29. 資料字典中通常不會記載哪一項資料元素特性？",
+          "Detail": {
+            "Options_A": "名稱",
+            "Options_B": "型態",
+            "Options_C": "預設值",
+            "Options_D": "程式碼",
+            "Ans": "程式碼",
+            "Detailed_Answer": "程式碼"
+          }
+        },
+        {
+          "Q_Num": 30,
+          "Que": "30. 什麼是資料字典？",
+          "Detail": {
+            "Options_A": "系統的程式碼庫",
+            "Options_B": "存放系統相關資料的中央倉儲",
+            "Options_C": "使用者手冊",
+            "Options_D": "系統的硬體清單",
+            "Ans": "存放系統相關資料的中央倉儲",
+            "Detailed_Answer": "存放系統相關資料的中央倉儲"
+          }
+        }
+      ]
+    },
+    {
+      "chap": "ch06",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "1. 物件所有的資料與方法自成一體的特性稱為什麼？",
+          "Detail": {
+            "Options_A": "封裝",
+            "Options_B": "多型",
+            "Options_C": "繼承",
+            "Options_D": "類別化",
+            "Ans": "封裝",
+            "Detailed_Answer": "封裝"
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "2. 屬於一個更廣分類的類別稱為什麼？",
+          "Detail": {
+            "Options_A": "子類別",
+            "Options_B": "實例",
+            "Options_C": "超類別",
+            "Options_D": "方法",
+            "Ans": "超類別",
+            "Detailed_Answer": "超類別"
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "3. 在UML中，用來描述兩個類別實例之間關係的是什麼？",
+          "Detail": {
+            "Options_A": "繼承",
+            "Options_B": "基數",
+            "Options_C": "多型",
+            "Options_D": "封裝",
+            "Ans": "基數",
+            "Detailed_Answer": "基數"
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "4. 物件的特殊屬性，用來形容物件目前狀況的是什麼？",
+          "Detail": {
+            "Options_A": "狀態",
+            "Options_B": "方法",
+            "Options_C": "訊息",
+            "Options_D": "類別",
+            "Ans": "狀態",
+            "Detailed_Answer": "狀態"
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "5. 在UML中，指出物件如何受到事件影響從一個狀態轉換到另一個狀態的圖稱為什麼？",
+          "Detail": {
+            "Options_A": "類別圖",
+            "Options_B": "使用案例圖",
+            "Options_C": "循序圖",
+            "Options_D": "狀態轉換圖",
+            "Ans": "狀態轉換圖",
+            "Detailed_Answer": "狀態轉換圖"
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "6. 可以讓子物件衍生父層物件的一個或多個屬性的關係稱為什麼？",
+          "Detail": {
+            "Options_A": "封裝",
+            "Options_B": "繼承",
+            "Options_C": "多型",
+            "Options_D": "類別化",
+            "Ans": "繼承",
+            "Detailed_Answer": "繼承"
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "7. 在UML中，顯示類別在特定期間內互動情形的圖稱為什麼？",
+          "Detail": {
+            "Options_A": "類別圖",
+            "Options_B": "使用案例圖",
+            "Options_C": "循序圖",
+            "Options_D": "活動圖",
+            "Ans": "循序圖",
+            "Detailed_Answer": "循序圖"
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "8. 在使用案例說明中不包括下列何者？",
+          "Detail": {
+            "Options_A": "先決條件",
+            "Options_B": "後置條件",
+            "Options_C": "程式碼",
+            "Options_D": "替代動作",
+            "Ans": "程式碼",
+            "Detailed_Answer": "程式碼"
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "9. 在物件導向分析中，描述物件特質的是什麼？",
+          "Detail": {
+            "Options_A": "方法",
+            "Options_B": "訊息",
+            "Options_C": "屬性",
+            "Options_D": "類別",
+            "Ans": "屬性",
+            "Detailed_Answer": "屬性"
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "10. 在UML中，類似水平流程圖，顯示動作和事件發生順序的圖稱為什麼？",
+          "Detail": {
+            "Options_A": "狀態圖",
+            "Options_B": "活動圖",
+            "Options_C": "類別圖",
+            "Options_D": "循序圖",
+            "Ans": "活動圖",
+            "Detailed_Answer": "活動圖"
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "11. 類別中更加仔細的分類稱為什麼？",
+          "Detail": {
+            "Options_A": "子類別",
+            "Options_B": "超類別",
+            "Options_C": "實例",
+            "Options_D": "方法",
+            "Ans": "子類別",
+            "Detailed_Answer": "子類別"
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "12. 在類別圖中，類別之間的關係通常用什麼表示？",
+          "Detail": {
+            "Options_A": "直線",
+            "Options_B": "圓形",
+            "Options_C": "矩形",
+            "Options_D": "箭頭",
+            "Ans": "直線",
+            "Detailed_Answer": "直線"
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "13. 在物件導向分析中，物件間互動的基本方式是什麼？",
+          "Detail": {
+            "Options_A": "繼承",
+            "Options_B": "封裝",
+            "Options_C": "多型",
+            "Options_D": "訊息",
+            "Ans": "訊息",
+            "Detailed_Answer": "訊息"
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "14. 物件模型的主要優點不包括下列何者？",
+          "Detail": {
+            "Options_A": "可模組化",
+            "Options_B": "難以維護",
+            "Options_C": "可重複使用",
+            "Options_D": "易於整合",
+            "Ans": "難以維護",
+            "Detailed_Answer": "難以維護"
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "15. 在UML中，使用案例圖主要用於表示什麼？",
+          "Detail": {
+            "Options_A": "系統結構",
+            "Options_B": "資料流程",
+            "Options_C": "系統功能",
+            "Options_D": "物件狀態",
+            "Ans": "系統功能",
+            "Detailed_Answer": "系統功能"
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "16. 屬於一個群組或分類的物件稱為什麼？",
+          "Detail": {
+            "Options_A": "實例",
+            "Options_B": "方法",
+            "Options_C": "屬性",
+            "Options_D": "類別",
+            "Ans": "類別",
+            "Detailed_Answer": "類別"
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "17. 在UML中，起始於一個使用案例與指使系統執行某種功能的外在實體稱為什麼？",
+          "Detail": {
+            "Options_A": "行動者",
+            "Options_B": "使用案例",
+            "Options_C": "類別",
+            "Options_D": "方法",
+            "Ans": "行動者",
+            "Detailed_Answer": "行動者"
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "18. 在UML中，代表特定企業功能或流程步驟的是什麼？",
+          "Detail": {
+            "Options_A": "類別圖",
+            "Options_B": "狀態圖",
+            "Options_C": "使用案例",
+            "Options_D": "活動圖",
+            "Ans": "使用案例",
+            "Detailed_Answer": "使用案例"
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "19. 在類別圖中，類別名稱通常放在什麼位置？",
+          "Detail": {
+            "Options_A": "矩形頂端",
+            "Options_B": "矩形中間",
+            "Options_C": "矩形底部",
+            "Options_D": "矩形外部",
+            "Ans": "矩形頂端",
+            "Detailed_Answer": "矩形頂端"
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "20. 在循序圖中，用來指出一個物件發送或接收訊息時間的是什麼？",
+          "Detail": {
+            "Options_A": "焦點",
+            "Options_B": "生命線",
+            "Options_C": "訊息",
+            "Options_D": "類別",
+            "Ans": "焦點",
+            "Detailed_Answer": "焦點"
+          }
+        },
+        {
+          "Q_Num": 21,
+          "Que": "21. 同樣一個訊息傳給兩個不一樣的物件時可以有不一樣的結果，這種特性稱為什麼？",
+          "Detail": {
+            "Options_A": "封裝",
+            "Options_B": "多型",
+            "Options_C": "繼承",
+            "Options_D": "類別化",
+            "Ans": "多型",
+            "Detailed_Answer": "多型"
+          }
+        },
+        {
+          "Q_Num": 22,
+          "Que": "22. 在循序圖中，代表物件可以和使用案例中其他物件進行互動期間的是什麼？",
+          "Detail": {
+            "Options_A": "焦點",
+            "Options_B": "生命線",
+            "Options_C": "訊息",
+            "Options_D": "類別",
+            "Ans": "生命線",
+            "Detailed_Answer": "生命線"
+          }
+        },
+        {
+          "Q_Num": 23,
+          "Que": "23. 物件導向分析的主要優點是什麼？",
+          "Detail": {
+            "Options_A": "複雜的系統結構",
+            "Options_B": "易於和物件導向程式語言整合",
+            "Options_C": "難以維護",
+            "Options_D": "不可重複使用",
+            "Ans": "易於和物件導向程式語言整合",
+            "Detailed_Answer": "易於和物件導向程式語言整合"
+          }
+        },
+        {
+          "Q_Num": 24,
+          "Que": "24. 當物件收到訊息或指令時所執行的任務或功能稱為什麼？",
+          "Detail": {
+            "Options_A": "狀態",
+            "Options_B": "屬性",
+            "Options_C": "類別",
+            "Options_D": "方法",
+            "Ans": "方法",
+            "Detailed_Answer": "方法"
+          }
+        },
+        {
+          "Q_Num": 25,
+          "Que": "25. 下列何者不是物件的基本特性？",
+          "Detail": {
+            "Options_A": "封裝",
+            "Options_B": "依賴",
+            "Options_C": "繼承",
+            "Options_D": "多型",
+            "Ans": "依賴",
+            "Detailed_Answer": "依賴"
+          }
+        },
+        {
+          "Q_Num": 26,
+          "Que": "26. 在UML中，系統邊界通常用什麼形狀表示？",
+          "Detail": {
+            "Options_A": "圓形",
+            "Options_B": "三角形",
+            "Options_C": "菱形",
+            "Options_D": "矩形",
+            "Ans": "矩形",
+            "Detailed_Answer": "矩形"
+          }
+        },
+        {
+          "Q_Num": 27,
+          "Que": "27. 表示系統中的人員、事件及互動的模型稱為什麼？",
+          "Detail": {
+            "Options_A": "類別圖",
+            "Options_B": "狀態圖",
+            "Options_C": "商業流程塑模",
+            "Options_D": "循序圖",
+            "Ans": "商業流程塑模",
+            "Detailed_Answer": "商業流程塑模"
+          }
+        },
+        {
+          "Q_Num": 28,
+          "Que": "28. 物件導向分析的最終產出是什麼？",
+          "Detail": {
+            "Options_A": "程式碼",
+            "Options_B": "使用案例",
+            "Options_C": "類別圖",
+            "Options_D": "物件模型",
+            "Ans": "物件模型",
+            "Detailed_Answer": "物件模型"
+          }
+        },
+        {
+          "Q_Num": 29,
+          "Que": "29. 在UML中，顯示參與使用案例的類別並記載類別之間關係的圖稱為什麼？",
+          "Detail": {
+            "Options_A": "使用案例圖",
+            "Options_B": "循序圖",
+            "Options_C": "活動圖",
+            "Options_D": "類別圖",
+            "Ans": "類別圖",
+            "Detailed_Answer": "類別圖"
+          }
+        },
+        {
+          "Q_Num": 30,
+          "Que": "30. 以下何者不是UML圖形的類型？",
+          "Detail": {
+            "Options_A": "資料流程圖",
+            "Options_B": "類別圖",
+            "Options_C": "循序圖",
+            "Options_D": "活動圖",
+            "Ans": "資料流程圖",
+            "Detailed_Answer": "資料流程圖"
+          }
+        }
+      ]
+    },
+    {
+      "chap": "test01",
+      "questions": [
+        {
+          "Q_Num": 1,
+          "Que": "系統軟體的主要功能是什麼？",
+          "Detail": {
+            "Options_A": "管理硬體",
+            "Options_B": "處理客戶關係",
+            "Options_C": "支援日常商業功能",
+            "Options_D": "進行數據分析",
+            "Ans": "管理硬體",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 2,
+          "Que": "以下哪一項不是應用軟體的類型？",
+          "Detail": {
+            "Options_A": "管理資訊系統",
+            "Options_B": "水平系統",
+            "Options_C": "垂直系統",
+            "Options_D": "作業系統",
+            "Ans": "作業系統",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 3,
+          "Que": "資訊科技(IT)是指什麼的結合？",
+          "Detail": {
+            "Options_A": "軟體與網路",
+            "Options_B": "軟體與硬體產品及服務",
+            "Options_C": "硬體與軟體",
+            "Options_D": "網路與人員",
+            "Ans": "軟體與硬體產品及服務",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 4,
+          "Que": "系統軟體的主要功能是什麼？",
+          "Detail": {
+            "Options_A": "管理硬體",
+            "Options_B": "處理客戶關係",
+            "Options_C": "支援日常商業功能",
+            "Options_D": "進行數據分析",
+            "Ans": "管理硬體",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 5,
+          "Que": "在markdown中，你會如何將 'quiz' 這個詞連結到 URL http://markdownquiz.com？",
+          "Detail": {
+            "Options_A": "[\"quiz\"](http://markdownquiz.com)",
+            "Options_B": "[](http://markdownquiz.com)",
+            "Options_C": "[quiz](http://markdownquiz.com)",
+            "Options_D": "[quiz](\"http://markdownquiz.com\")",
+            "Ans": "[quiz](http://markdownquiz.com)",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 6,
+          "Que": "下列何者是使用雛型的開發方法？",
+          "Detail": {
+            "Options_A": "結構化分析",
+            "Options_B": "物件導向方法",
+            "Options_C": "批次處理",
+            "Options_D": "快捷法",
+            "Ans": "快捷法",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 7,
+          "Que": "下列何者是使用繼承的開發方法？",
+          "Detail": {
+            "Options_A": "結構化分析",
+            "Options_B": "物件導向方法",
+            "Options_C": "批次處理",
+            "Options_D": "快捷法",
+            "Ans": "物件導向方法",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 8,
+          "Que": "系統分析師式擔任管理者和___之間的翻譯者？",
+          "Detail": {
+            "Options_A": "程式設計師",
+            "Options_B": "使用者",
+            "Options_C": "投資者",
+            "Options_D": "機器",
+            "Ans": "使用者",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 9,
+          "Que": "下列何者是一套制訂長期性的組織目標、策略及資源的流程？",
+          "Detail": {
+            "Options_A": "行動方案",
+            "Options_B": "系統請求",
+            "Options_C": "策略規劃",
+            "Options_D": "個案分析",
+            "Ans": "策略規劃",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 10,
+          "Que": "大部分的資訊系統專案都是從下列何者提出開始？",
+          "Detail": {
+            "Options_A": "行動方案",
+            "Options_B": "系統請求",
+            "Options_C": "策略規劃",
+            "Options_D": "個案分析",
+            "Ans": "系統請求",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 11,
+          "Que": "下列何者是為了達成使命必須先完成的短期目標？",
+          "Detail": {
+            "Options_A": "關鍵成功因素",
+            "Options_B": "系統請求",
+            "Options_C": "策略規劃",
+            "Options_D": "個案分析",
+            "Ans": "關鍵成功因素",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 12,
+          "Que": "一連串的任務，假如這些任務延誤了，將會影響整個專案的最終完成日期，稱為？",
+          "Detail": {
+            "Options_A": "critical path",
+            "Options_B": "milestone",
+            "Options_C": "SDLC",
+            "Options_D": "task",
+            "Ans": "critical path",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 13,
+          "Que": "具有開始與結束時間的任何一項工作，稱為？",
+          "Detail": {
+            "Options_A": "critical path",
+            "Options_B": "milestone",
+            "Options_C": "SDLC",
+            "Options_D": "task",
+            "Ans": "task",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 14,
+          "Que": "一個用於監督進度與管理專案的可識別參考點，稱為？",
+          "Detail": {
+            "Options_A": "critical path",
+            "Options_B": "milestone",
+            "Options_C": "SDLC",
+            "Options_D": "task",
+            "Ans": "milestone",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 15,
+          "Que": "BPMN代表什麼？",
+          "Detail": {
+            "Options_A": "Business Process Modeling Notation",
+            "Options_B": "Business Process Management Network",
+            "Options_C": "Business Profile Modeling Notation",
+            "Options_D": "Business Profile Management Network",
+            "Ans": "Business Process Modeling Notation",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 16,
+          "Que": "CASE工具是什麼的縮寫？",
+          "Detail": {
+            "Options_A": "Complex Application Software Environment",
+            "Options_B": "Centralized Application System Evaluation",
+            "Options_C": "Computer Assisted Software Engineering",
+            "Options_D": "Computer Analysis System Engineering",
+            "Ans": "Computer Assisted Software Engineering",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 17,
+          "Que": "操作可行性主要關注什麼問題？",
+          "Detail": {
+            "Options_A": "系統的用戶接受度",
+            "Options_B": "系統的技術實現",
+            "Options_C": "系統的成本效益",
+            "Options_D": "系統的開發時間",
+            "Ans": "系統的用戶接受度",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 18,
+          "Que": "PERT和CPM的主要區別是什麼？",
+          "Detail": {
+            "Options_A": "圖形表示方式不同",
+            "Options_B": "用途不同",
+            "Options_C": "這兩種方法的差異已經隨時間消失",
+            "Options_D": "發明者不同",
+            "Ans": "這兩種方法的差異已經隨時間消失",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 19,
+          "Que": "當創建自己的 GitHub 個人資料首頁時，預設的顯示檔名為何？",
+          "Detail": {
+            "Options_A": "profile.md",
+            "Options_B": "README.md",
+            "Options_C": "index.html",
+            "Options_D": "github-profile.txt",
+            "Ans": "README.md",
+            "Detailed_Answer": ""
+          }
+        },
+        {
+          "Q_Num": 20,
+          "Que": "高科大管理學院的使命（MISSION）主要聚焦於哪些方面？",
+          "Detail": {
+            "Options_A": "純粹學術研究和理論發展",
+            "Options_B": "培養學生的國際語言能力",
+            "Options_C": "提供高品質學習環境，整合學理與產業需求，培育具國際觀的經營管理人才",
+            "Options_D": "專注於本地企業需求，培養區域性管理人才",
+            "Ans": "提供高品質學習環境，整合學理與產業需求，培育具國際觀的經營管理人才",
+            "Detailed_Answer": ""
+          }
+        }
+      ]
+    }
+  ]
+}
