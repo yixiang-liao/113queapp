@@ -262,7 +262,7 @@
                 },
                 {
                     "Q_Num": 2,
-                    "Que": "2.",
+                    "Que": "2. 以下哪項不是SWOT分析的組成部分？",
                     "Detail": {
                         "Options_A": "優勢",
                         "Options_B": "弱勢",
@@ -370,7 +370,7 @@
                 },
                 {
                     "Q_Num": 11,
-                    "Que": "11.",
+                    "Que": "11. 策略規劃是一個制訂什麼的流程？",
                     "Detail": {
                         "Options_A": "短期目標",
                         "Options_B": "長期目標",
@@ -418,7 +418,7 @@
                 },
                 {
                     "Q_Num": 15,
-                    "Que": "15.",
+                    "Que": "15. CASE工具是什麼的縮寫？",
                     "Detail": {
                         "Options_A": "Computer Assisted Software Engineering",
                         "Options_B": "Computer Analysis System Engineering",
@@ -538,7 +538,7 @@
                 },
                 {
                     "Q_Num": 25,
-                    "Que": "25.",
+                    "Que": "25. 以下哪項不是影響系統請求優先順序的因素？",
                     "Detail": {
                         "Options_A": "降低成本",
                         "Options_B": "增加收益",
@@ -2304,4 +2304,4 @@
             ]
         }
     ]
-}
+  }

@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "HOST=0.0.0.0 PORT=3001 HTTPS=true SSL_CRT_FILE=/var/www/html/material-dashboard-react-main/ssl/certificate.crt SSL_KEY_FILE=/var/www/html/material-dashboard-react-main/ssl/private.key react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
