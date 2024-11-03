@@ -129,3 +129,13 @@ input[type="radio"] {
   font-weight: bold;
   color: #4a90e2;
 }
+
+.Detail{
+  color: blue;
+}
+.Ans{
+  color: green;
+}
+.TF{
+  color: red;
+}

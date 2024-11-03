@@ -5,6 +5,7 @@ function QuizApp() {
   const [selectedRange, setSelectedRange] = useState('all');
   const [questionCount, setQuestionCount] = useState(5);
   const [questions, setQuestions] = useState([]);
+  const [userAnswers, setUserAnswers] = useState({});
   const [score, setScore] = useState(0);
   const [showResult, setShowResult] = useState(false);
 
@@ -21,8 +22,27 @@ function QuizApp() {
 
     const selectedQuestions = rangeQuestions.sort(() => 0.5 - Math.random()).slice(0, questionCount);
     setQuestions(selectedQuestions);
+    setUserAnswers({});
     setScore(0);
     setShowResult(false);
+  };
+
+  const handleAnswerChange = (questionNum, answer) => {
+    setUserAnswers(prevAnswers => ({ ...prevAnswers, [questionNum]: answer }));
+  };
+
+  const submitAnswers = () => {
+    let totalScore = 0;
+
+    questions.forEach(question => {
+      const userAnswer = userAnswers[question.Q_Num];
+      if (userAnswer === question.Detail?.Ans) {
+        totalScore += 1;
+      }
+    });
+
+    setScore(totalScore);
+    setShowResult(true);
   };
 
   return (
@@ -49,24 +69,25 @@ function QuizApp() {
         <Question
           key={index}
           question={question}
-          updateScore={(isCorrect) => setScore(score + (isCorrect ? 1 : 0))}
+          userAnswer={userAnswers[question.Q_Num]}
+          onAnswerChange={(answer) => handleAnswerChange(question.Q_Num, answer)}
+          showResult={showResult}
         />
       ))}
+
+      <button onClick={submitAnswers} disabled={questions.length === 0}>提交答案</button>
 
       {showResult && <Result score={score} questionCount={questionCount} />}
     </div>
   );
 }
 
-function Question({ question, updateScore }) {
-  const [selectedOption, setSelectedOption] = useState(null);
-  const [isAnswered, setIsAnswered] = useState(false);
-
-  const checkAnswer = () => {
-    const isCorrect = selectedOption === question.Detail?.Ans;
-    updateScore(isCorrect);
-    setIsAnswered(true);
+function Question({ question, userAnswer, onAnswerChange, showResult }) {
+  const handleOptionChange = (option) => {
+    onAnswerChange(option);
   };
+
+  const isCorrect = userAnswer === question.Detail?.Ans;
 
   return (
     <div>
@@ -77,18 +98,19 @@ function Question({ question, updateScore }) {
             type="radio"
             name={`question${question.Q_Num}`}
             value={question.Detail?.[`Options_${option}`]}
-            onChange={() => setSelectedOption(question.Detail?.[`Options_${option}`])}
-            disabled={!question.Detail?.[`Options_${option}`]} // 禁用缺少的選項
+            onChange={() => handleOptionChange(question.Detail?.[`Options_${option}`])}
+            checked={userAnswer === question.Detail?.[`Options_${option}`]} // 確保選中正確的選項
+            disabled={showResult || !question.Detail?.[`Options_${option}`]} // 禁用缺少的選項
           />
           {question.Detail?.[`Options_${option}`] || 'N/A'} {/* 顯示 N/A 或其他替代內容 */}
         </div>
       ))}
-      <button onClick={checkAnswer} disabled={isAnswered}>確認答案</button>
 
-      {isAnswered && (
+      {showResult && (
         <div>
-          {selectedOption === question.Detail?.Ans ? '正確!' : '錯誤'}
-          <p>{question.Detail?.Detailed_Answer || '無解答說明'}</p>
+          <p className='TF'>{isCorrect ? '' : '錯誤'}</p>
+          {!isCorrect && <p className='Ans'>正確答案：{question.Detail?.Ans}</p>}
+          <p className='Detail'>詳解：{question.Detail?.Detailed_Answer || '無解答說明'}</p>
         </div>
       )}
     </div>

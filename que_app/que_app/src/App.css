@@ -1,0 +1,131 @@
+/* 全局樣式 */
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f0f4f8;
+}
+
+/* 主容器 */
+.quiz-container {
+  width: 100%;
+  max-width: 700px;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  color: #4a90e2;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* 下拉選單和按鈕 */
+label {
+  display: block;
+  margin-top: 1rem;
+  color: #333;
+}
+
+select, input[type="number"] {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin-top: 1.5rem;
+  background-color: #4a90e2;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ccc;
+}
+
+button:hover:not(:disabled) {
+  background-color: #357ab8;
+}
+
+/* 題目樣式 */
+.question {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.question h2 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.option:hover {
+  background-color: #f1f7fd;
+}
+
+input[type="radio"] {
+  margin-right: 0.5rem;
+}
+
+/* 答案結果 */
+.answer-result {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: #f4f8fa;
+}
+
+.correct {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+/* 結果樣式 */
+.result {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.result p {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #4a90e2;
+}
